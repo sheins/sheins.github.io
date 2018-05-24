@@ -396,15 +396,6 @@
       ],
       "accessibility" : [
         {
-          "text" : "mentor.jpg",
-          "targetRectangle" : {
-            "y" : 555.5,
-            "x" : 94.264030456542969,
-            "width" : 583,
-            "height" : 437
-          }
-        },
-        {
           "text" : "DjangoGirls_2017-334.jpg",
           "targetRectangle" : {
             "y" : 89.5,
@@ -427,6 +418,15 @@
           "targetRectangle" : {
             "y" : 89.5,
             "x" : 94.264034271240234,
+            "width" : 583,
+            "height" : 437
+          }
+        },
+        {
+          "text" : "mentor.jpg",
+          "targetRectangle" : {
+            "y" : 555.5,
+            "x" : 94.264030456542969,
             "width" : 583,
             "height" : 437
           }

@@ -2,9 +2,23 @@ local_slide( {
   "name" : "880A17E7-E265-4FD4-A9A0-1EFB16E1638B",
   "json" : {
     "assets" : {
-      "8297A9BFBB8ACD0C0CD95DFD16162992" : {
+      "5435B4B491F32615843F82AD52481DA5" : {
         "type" : "texture",
-        "index" : 4,
+        "index" : 1,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/880A17E7-E265-4FD4-A9A0-1EFB16E1638B.pdf"
+        },
+        "width" : 1990,
+        "height" : 1086
+      },
+      "C25C25FF361FB24FC35F6B120D2F252D" : {
+        "type" : "texture",
+        "index" : 0,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -16,9 +30,9 @@ local_slide( {
         "width" : 1920,
         "height" : 1080
       },
-      "0BB377D835C76430E52E95BFB8E0D709" : {
+      "7A348E2A335A5E04458AF99069289CB9" : {
         "type" : "texture",
-        "index" : 0,
+        "index" : 4,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -44,20 +58,6 @@ local_slide( {
         "width" : 1594,
         "height" : 272
       },
-      "AB5E23E421901530B01C3018C4256B74" : {
-        "type" : "texture",
-        "index" : 2,
-        "assetRequest" : {
-          "type" : "slide",
-          "state" : "contents",
-          "slide" : "none"
-        },
-        "url" : {
-          "native" : "assets\/880A17E7-E265-4FD4-A9A0-1EFB16E1638B.pdf"
-        },
-        "width" : 2138,
-        "height" : 1082
-      },
       "69B70C8E60EF6863F67FDA9F912287E0" : {
         "type" : "texture",
         "index" : 5,
@@ -72,9 +72,9 @@ local_slide( {
         "width" : 1920,
         "height" : 1080
       },
-      "5435B4B491F32615843F82AD52481DA5" : {
+      "AB5E23E421901530B01C3018C4256B74" : {
         "type" : "texture",
-        "index" : 1,
+        "index" : 2,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -83,8 +83,8 @@ local_slide( {
         "url" : {
           "native" : "assets\/880A17E7-E265-4FD4-A9A0-1EFB16E1638B.pdf"
         },
-        "width" : 1990,
-        "height" : 1086
+        "width" : 2138,
+        "height" : 1082
       }
     },
     "events" : [
@@ -268,7 +268,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "8297A9BFBB8ACD0C0CD95DFD16162992"
+                      "texture" : "7A348E2A335A5E04458AF99069289CB9"
                     },
                     {
                       "animations" : [
@@ -370,21 +370,21 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "Go home, and bring Django Girls to your community!",
-            "targetRectangle" : {
-              "y" : 387,
-              "x" : 162.78399999999999,
-              "width" : 1622.4319999999998,
-              "height" : 306
-            }
-          },
-          {
             "text" : "room-view.jpg",
             "targetRectangle" : {
               "y" : -1.2079086303710938,
               "x" : -9.8275365829463226,
               "width" : 1987.096923828125,
               "height" : 1082.4157420545816
+            }
+          },
+          {
+            "text" : "Go home, and bring Django Girls to your community!",
+            "targetRectangle" : {
+              "y" : 387,
+              "x" : 162.78399999999999,
+              "width" : 1622.4319999999998,
+              "height" : 306
             }
           }
         ],
@@ -619,7 +619,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "0BB377D835C76430E52E95BFB8E0D709"
+                      "texture" : "C25C25FF361FB24FC35F6B120D2F252D"
                     }
                   ]
                 }

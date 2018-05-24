@@ -2,21 +2,7 @@ local_slide( {
   "name" : "44FAEAE1-2218-4A52-97D0-535CBF39ECC6",
   "json" : {
     "assets" : {
-      "9598CAB5D7D57EEB738ED1993B89BD17" : {
-        "type" : "texture",
-        "index" : 5,
-        "assetRequest" : {
-          "type" : "slide",
-          "state" : "contents",
-          "slide" : "none"
-        },
-        "url" : {
-          "native" : "assets\/44FAEAE1-2218-4A52-97D0-535CBF39ECC6.pdf"
-        },
-        "width" : 1920,
-        "height" : 1080
-      },
-      "EC42D1B14C81D31EC976AF73A5F81E21" : {
+      "D9F1C3353BD39F7549192ECBCEB7ECF4" : {
         "type" : "texture",
         "index" : 4,
         "assetRequest" : {
@@ -28,7 +14,7 @@ local_slide( {
           "native" : "assets\/44FAEAE1-2218-4A52-97D0-535CBF39ECC6.pdf"
         },
         "width" : 1642,
-        "height" : 366
+        "height" : 331
       },
       "5435B4B491F32615843F82AD52481DA5" : {
         "type" : "texture",
@@ -43,6 +29,34 @@ local_slide( {
         },
         "width" : 1990,
         "height" : 1086
+      },
+      "F2314CAF2FE0F371DFBCFF9FA782F100" : {
+        "type" : "texture",
+        "index" : 5,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/44FAEAE1-2218-4A52-97D0-535CBF39ECC6.pdf"
+        },
+        "width" : 1920,
+        "height" : 1080
+      },
+      "991A222E6E1E6FE35B1D396D4452F967" : {
+        "type" : "texture",
+        "index" : 6,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/44FAEAE1-2218-4A52-97D0-535CBF39ECC6.pdf"
+        },
+        "width" : 1920,
+        "height" : 1080
       },
       "C25C25FF361FB24FC35F6B120D2F252D" : {
         "type" : "texture",
@@ -71,20 +85,6 @@ local_slide( {
         },
         "width" : 2138,
         "height" : 1082
-      },
-      "B61D6C3F09BE16313CAEB879AD7A3200" : {
-        "type" : "texture",
-        "index" : 6,
-        "assetRequest" : {
-          "type" : "slide",
-          "state" : "contents",
-          "slide" : "none"
-        },
-        "url" : {
-          "native" : "assets\/44FAEAE1-2218-4A52-97D0-535CBF39ECC6.pdf"
-        },
-        "width" : 1920,
-        "height" : 1080
       },
       "BD1F44DB5D3FDF4E3F0D2D0EB0789F55" : {
         "type" : "texture",
@@ -282,7 +282,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "9598CAB5D7D57EEB738ED1993B89BD17"
+                      "texture" : "F2314CAF2FE0F371DFBCFF9FA782F100"
                     },
                     {
                       "animations" : [
@@ -363,7 +363,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "B61D6C3F09BE16313CAEB879AD7A3200"
+                      "texture" : "991A222E6E1E6FE35B1D396D4452F967"
                     }
                   ]
                 }
@@ -384,6 +384,24 @@ local_slide( {
         ],
         "accessibility" : [
           {
+            "text" : "Ask directly and at the beginning of the email",
+            "targetRectangle" : {
+              "y" : 265.64468383789062,
+              "x" : 208.87499725818634,
+              "width" : 1525.7970000000003,
+              "height" : 94
+            }
+          },
+          {
+            "text" : "Include statistics, and bold items to make them stand out",
+            "targetRectangle" : {
+              "y" : 359.64468383789062,
+              "x" : 208.87499725818634,
+              "width" : 1585.5510000000002,
+              "height" : 247
+            }
+          },
+          {
             "text" : "room-view.jpg",
             "targetRectangle" : {
               "y" : -1.2079086303710938,
@@ -399,24 +417,6 @@ local_slide( {
               "x" : 140.02671999999984,
               "width" : 1639.9465600000003,
               "height" : 144
-            }
-          },
-          {
-            "text" : "Include statistics, and bold items to make them stand out",
-            "targetRectangle" : {
-              "y" : 265.64468383789062,
-              "x" : 208.87499725818634,
-              "width" : 1585.5510000000002,
-              "height" : 188
-            }
-          },
-          {
-            "text" : "Ask directly and at the beginning of the email",
-            "targetRectangle" : {
-              "y" : 453.64468383789062,
-              "x" : 208.87499725818634,
-              "width" : 1525.797,
-              "height" : 153
             }
           }
         ],
@@ -1337,7 +1337,7 @@ local_slide( {
                     "scale" : 1,
                     "position" : {
                       "pointX" : 954,
-                      "pointY" : 444.64468383789062
+                      "pointY" : 427.14468383789062
                     },
                     "width" : 1642,
                     "sublayerTransform" : [
@@ -1366,7 +1366,7 @@ local_slide( {
                     },
                     "opacity" : 1,
                     "edgeAntialiasingMask" : 251658240,
-                    "height" : 366,
+                    "height" : 331,
                     "hidden" : false,
                     "anchorPoint" : {
                       "pointX" : 0.5,
@@ -1383,8 +1383,8 @@ local_slide( {
                       ],
                       "texturedRectangle" : {
                         "singleTextureOpacity" : 1,
-                        "textXHeight" : 0.093885245901639353,
-                        "textBaseline" : 0.89724281185963117,
+                        "textXHeight" : 0.10381268882175228,
+                        "textBaseline" : 0.99211742942787007,
                         "isBackgroundTexture" : true,
                         "isVerticalText" : false,
                         "textColor" : [
@@ -1409,7 +1409,7 @@ local_slide( {
                         "scale" : 1,
                         "position" : {
                           "pointX" : 825,
-                          "pointY" : 174.35531616210938
+                          "pointY" : 156.85531616210938
                         },
                         "width" : 1642,
                         "sublayerTransform" : [
@@ -1438,14 +1438,14 @@ local_slide( {
                         },
                         "opacity" : 1,
                         "edgeAntialiasingMask" : 0,
-                        "height" : 366,
+                        "height" : 331,
                         "hidden" : false,
                         "anchorPoint" : {
                           "pointX" : 0.5,
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "EC42D1B14C81D31EC976AF73A5F81E21"
+                      "texture" : "D9F1C3353BD39F7549192ECBCEB7ECF4"
                     }
                   ]
                 }

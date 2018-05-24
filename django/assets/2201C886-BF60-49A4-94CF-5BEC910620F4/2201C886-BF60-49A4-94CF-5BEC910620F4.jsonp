@@ -58,9 +58,9 @@ local_slide( {
         "width" : 490,
         "height" : 56
       },
-      "8A8AE636D0CE0FA6323720647CD3D92D" : {
+      "356F2AC2EC7EEDAB526C866D1F2D1198" : {
         "type" : "texture",
-        "index" : 18,
+        "index" : 1,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -69,8 +69,8 @@ local_slide( {
         "url" : {
           "native" : "assets\/2201C886-BF60-49A4-94CF-5BEC910620F4.pdf"
         },
-        "width" : 1920,
-        "height" : 1080
+        "width" : 1990,
+        "height" : 1086
       },
       "AB5E23E421901530B01C3018C4256B74" : {
         "type" : "texture",
@@ -156,6 +156,20 @@ local_slide( {
         "width" : 497,
         "height" : 57
       },
+      "8A8AE636D0CE0FA6323720647CD3D92D" : {
+        "type" : "texture",
+        "index" : 18,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/2201C886-BF60-49A4-94CF-5BEC910620F4.pdf"
+        },
+        "width" : 1920,
+        "height" : 1080
+      },
       "BEAF5D2F7D9B820B52D921D346484B68" : {
         "type" : "texture",
         "index" : 6,
@@ -239,20 +253,6 @@ local_slide( {
         },
         "width" : 148,
         "height" : 174
-      },
-      "5435B4B491F32615843F82AD52481DA5" : {
-        "type" : "texture",
-        "index" : 1,
-        "assetRequest" : {
-          "type" : "slide",
-          "state" : "contents",
-          "slide" : "none"
-        },
-        "url" : {
-          "native" : "assets\/2201C886-BF60-49A4-94CF-5BEC910620F4.pdf"
-        },
-        "width" : 1990,
-        "height" : 1086
       },
       "5DC90857CDF3F1FB05EE2D7C63821189" : {
         "type" : "texture",
@@ -552,12 +552,21 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "2. Recruitment",
+            "text" : "5. Day of",
             "targetRectangle" : {
-              "y" : 489.3021240234375,
-              "x" : 669.1607666015625,
-              "width" : 490.03800000000001,
+              "y" : 881.22564697265625,
+              "x" : 804.21380615234375,
+              "width" : 298.01099999999997,
               "height" : 94
+            }
+          },
+          {
+            "text" : "room-view.jpg",
+            "targetRectangle" : {
+              "y" : -1.2079086303710938,
+              "x" : -9.8275365829463226,
+              "width" : 1987.096923828125,
+              "height" : 1082.4157420545816
             }
           },
           {
@@ -566,15 +575,6 @@ local_slide( {
               "y" : 489.3021240234375,
               "x" : 175.05039978027344,
               "width" : 377.56799999999998,
-              "height" : 94
-            }
-          },
-          {
-            "text" : "6. After Event",
-            "targetRectangle" : {
-              "y" : 881.22564697265625,
-              "x" : 1320.8665771484375,
-              "width" : 453.8130000000001,
               "height" : 94
             }
           },
@@ -588,20 +588,20 @@ local_slide( {
             }
           },
           {
-            "text" : "room-view.jpg",
+            "text" : "4. Final Stretch ",
             "targetRectangle" : {
-              "y" : -1.2079086303710938,
-              "x" : -9.8275365829463226,
-              "width" : 1987.096923828125,
-              "height" : 1082.4157420545816
+              "y" : 881.22564697265625,
+              "x" : 133.38508605957031,
+              "width" : 512.18700000000001,
+              "height" : 94
             }
           },
           {
-            "text" : "5. Day of",
+            "text" : "2. Recruitment",
             "targetRectangle" : {
-              "y" : 881.22564697265625,
-              "x" : 804.21380615234375,
-              "width" : 298.01099999999997,
+              "y" : 489.3021240234375,
+              "x" : 669.1607666015625,
+              "width" : 490.03800000000001,
               "height" : 94
             }
           },
@@ -615,11 +615,11 @@ local_slide( {
             }
           },
           {
-            "text" : "4. Final Stretch ",
+            "text" : "6. After Event",
             "targetRectangle" : {
               "y" : 881.22564697265625,
-              "x" : 133.38508605957031,
-              "width" : 512.18700000000001,
+              "x" : 1320.8665771484375,
+              "width" : 453.8130000000001,
               "height" : 94
             }
           }
@@ -1036,7 +1036,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "5435B4B491F32615843F82AD52481DA5"
+                      "texture" : "356F2AC2EC7EEDAB526C866D1F2D1198"
                     }
                   ]
                 }

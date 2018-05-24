@@ -398,21 +398,21 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "You (YES YOU) can run Django Girls in your hometown!",
-            "targetRectangle" : {
-              "y" : 172.5,
-              "x" : 1016.19984,
-              "width" : 812.04032000000007,
-              "height" : 336
-            }
-          },
-          {
             "text" : "julie.jpg",
             "targetRectangle" : {
               "y" : -1.0781251192092896,
               "x" : -6.270782470703125,
               "width" : 898.8125,
               "height" : 1082.1651220321655
+            }
+          },
+          {
+            "text" : "You (YES YOU) can run Django Girls in your hometown!",
+            "targetRectangle" : {
+              "y" : 172.5,
+              "x" : 1016.19984,
+              "width" : 812.04032000000007,
+              "height" : 336
             }
           },
           {

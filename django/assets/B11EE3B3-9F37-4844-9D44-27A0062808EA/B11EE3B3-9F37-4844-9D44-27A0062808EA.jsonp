@@ -392,24 +392,6 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "You’re ready to go. Now what?",
-            "targetRectangle" : {
-              "y" : 49,
-              "x" : 144.64000000000021,
-              "width" : 1630.7199999999993,
-              "height" : 139
-            }
-          },
-          {
-            "text" : "room-view.jpg",
-            "targetRectangle" : {
-              "y" : -1.2079086303710938,
-              "x" : -9.8275365829463226,
-              "width" : 1987.096923828125,
-              "height" : 1082.4157420545816
-            }
-          },
-          {
             "text" : "Find a venue (great WiFi is a must) and coordinate a date",
             "targetRectangle" : {
               "y" : 267.02430725097656,
@@ -425,6 +407,24 @@ local_slide( {
               "x" : 187.00000041723251,
               "width" : 1500.6120000000001,
               "height" : 247
+            }
+          },
+          {
+            "text" : "You’re ready to go. Now what?",
+            "targetRectangle" : {
+              "y" : 49,
+              "x" : 144.64000000000021,
+              "width" : 1630.7199999999993,
+              "height" : 139
+            }
+          },
+          {
+            "text" : "room-view.jpg",
+            "targetRectangle" : {
+              "y" : -1.2079086303710938,
+              "x" : -9.8275365829463226,
+              "width" : 1987.096923828125,
+              "height" : 1082.4157420545816
             }
           }
         ],

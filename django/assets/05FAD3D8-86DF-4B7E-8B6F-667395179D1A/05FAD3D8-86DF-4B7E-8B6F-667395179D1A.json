@@ -14,9 +14,9 @@
       "width" : 1523,
       "height" : 286
     },
-    "C25C25FF361FB24FC35F6B120D2F252D" : {
+    "B61A631F5A6D1261DE0F3C54548DFAAE" : {
       "type" : "texture",
-      "index" : 0,
+      "index" : 4,
       "assetRequest" : {
         "type" : "slide",
         "state" : "contents",
@@ -28,9 +28,9 @@
       "width" : 1920,
       "height" : 1080
     },
-    "B61D6C3F09BE16313CAEB879AD7A3200" : {
+    "C25C25FF361FB24FC35F6B120D2F252D" : {
       "type" : "texture",
-      "index" : 4,
+      "index" : 0,
       "assetRequest" : {
         "type" : "slide",
         "state" : "contents",
@@ -266,7 +266,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "B61D6C3F09BE16313CAEB879AD7A3200"
+                    "texture" : "B61A631F5A6D1261DE0F3C54548DFAAE"
                   },
                   {
                     "animations" : [
@@ -368,21 +368,21 @@
       ],
       "accessibility" : [
         {
-          "text" : "room-view.jpg",
-          "targetRectangle" : {
-            "y" : -1.2079086303710938,
-            "x" : -9.8275365829463226,
-            "width" : 1987.096923828125,
-            "height" : 1082.4157420545816
-          }
-        },
-        {
           "text" : "“We've grown from 76 attendees and 19 mentors in 2016 to 110 attendees and 35 mentors in 2017. “",
           "targetRectangle" : {
             "y" : 346.49999260902405,
             "x" : 197.66000000000008,
             "width" : 1545.6799999999998,
             "height" : 329
+          }
+        },
+        {
+          "text" : "room-view.jpg",
+          "targetRectangle" : {
+            "y" : -1.2079086303710938,
+            "x" : -9.8275365829463226,
+            "width" : 1987.096923828125,
+            "height" : 1082.4157420545816
           }
         }
       ],

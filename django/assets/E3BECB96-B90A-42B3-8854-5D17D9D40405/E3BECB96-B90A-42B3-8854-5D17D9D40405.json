@@ -368,21 +368,21 @@
       ],
       "accessibility" : [
         {
-          "text" : "room-view.jpg",
-          "targetRectangle" : {
-            "y" : -1.2079086303710938,
-            "x" : -9.8275365829463226,
-            "width" : 1987.096923828125,
-            "height" : 1082.4157420545816
-          }
-        },
-        {
           "text" : "If programming = brave girls…",
           "targetRectangle" : {
             "y" : 387,
             "x" : 267.28000000000009,
             "width" : 1413.4399999999996,
             "height" : 306
+          }
+        },
+        {
+          "text" : "room-view.jpg",
+          "targetRectangle" : {
+            "y" : -1.2079086303710938,
+            "x" : -9.8275365829463226,
+            "width" : 1987.096923828125,
+            "height" : 1082.4157420545816
           }
         }
       ],

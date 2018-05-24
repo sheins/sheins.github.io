@@ -42,7 +42,7 @@
       "width" : 1920,
       "height" : 1080
     },
-    "AB5E23E421901530B01C3018C4256B74" : {
+    "5933105E544BBC94C48B4BF8BF8A1EB3" : {
       "type" : "texture",
       "index" : 2,
       "assetRequest" : {
@@ -368,21 +368,21 @@
       ],
       "accessibility" : [
         {
-          "text" : "Mentors can be any gender",
-          "targetRectangle" : {
-            "y" : 464,
-            "x" : 169.78399999999999,
-            "width" : 1580.4319999999998,
-            "height" : 153
-          }
-        },
-        {
           "text" : "room-view.jpg",
           "targetRectangle" : {
             "y" : -1.2079086303710938,
             "x" : -9.8275365829463226,
             "width" : 1987.096923828125,
             "height" : 1082.4157420545816
+          }
+        },
+        {
+          "text" : "Mentors can be any gender",
+          "targetRectangle" : {
+            "y" : 464,
+            "x" : 169.78399999999999,
+            "width" : 1580.4319999999998,
+            "height" : 153
           }
         }
       ],
@@ -1037,7 +1037,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "AB5E23E421901530B01C3018C4256B74"
+                    "texture" : "5933105E544BBC94C48B4BF8BF8A1EB3"
                   }
                 ]
               }

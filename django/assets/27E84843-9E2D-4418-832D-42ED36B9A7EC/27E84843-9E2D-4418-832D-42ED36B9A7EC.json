@@ -1,8 +1,22 @@
 {
   "assets" : {
-    "F2314CAF2FE0F371DFBCFF9FA782F100" : {
+    "5435B4B491F32615843F82AD52481DA5" : {
       "type" : "texture",
-      "index" : 5,
+      "index" : 1,
+      "assetRequest" : {
+        "type" : "slide",
+        "state" : "contents",
+        "slide" : "none"
+      },
+      "url" : {
+        "native" : "assets\/27E84843-9E2D-4418-832D-42ED36B9A7EC.pdf"
+      },
+      "width" : 1990,
+      "height" : 1086
+    },
+    "BA6B6958CE367590A99F2D250D6B4C56" : {
+      "type" : "texture",
+      "index" : 6,
       "assetRequest" : {
         "type" : "slide",
         "state" : "contents",
@@ -14,9 +28,9 @@
       "width" : 1920,
       "height" : 1080
     },
-    "CBA62750219921998B442DA1F5139A10" : {
+    "991A222E6E1E6FE35B1D396D4452F967" : {
       "type" : "texture",
-      "index" : 6,
+      "index" : 5,
       "assetRequest" : {
         "type" : "slide",
         "state" : "contents",
@@ -42,7 +56,7 @@
       "width" : 1920,
       "height" : 1080
     },
-    "E9BA6B16BFF2D948C540C917E2261776" : {
+    "CBC35BE691A1C3ADE5B3AD0D73A923A4" : {
       "type" : "texture",
       "index" : 4,
       "assetRequest" : {
@@ -53,8 +67,8 @@
       "url" : {
         "native" : "assets\/27E84843-9E2D-4418-832D-42ED36B9A7EC.pdf"
       },
-      "width" : 1642,
-      "height" : 178
+      "width" : 1595,
+      "height" : 119
     },
     "AB5E23E421901530B01C3018C4256B74" : {
       "type" : "texture",
@@ -69,20 +83,6 @@
       },
       "width" : 2138,
       "height" : 1082
-    },
-    "C668E611EFC1B432EA053D1CC642727D" : {
-      "type" : "texture",
-      "index" : 1,
-      "assetRequest" : {
-        "type" : "slide",
-        "state" : "contents",
-        "slide" : "none"
-      },
-      "url" : {
-        "native" : "assets\/27E84843-9E2D-4418-832D-42ED36B9A7EC.pdf"
-      },
-      "width" : 1990,
-      "height" : 1086
     },
     "BD1F44DB5D3FDF4E3F0D2D0EB0789F55" : {
       "type" : "texture",
@@ -280,7 +280,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "F2314CAF2FE0F371DFBCFF9FA782F100"
+                    "texture" : "991A222E6E1E6FE35B1D396D4452F967"
                   },
                   {
                     "animations" : [
@@ -361,7 +361,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "CBA62750219921998B442DA1F5139A10"
+                    "texture" : "BA6B6958CE367590A99F2D250D6B4C56"
                   }
                 ]
               }
@@ -382,12 +382,12 @@
       ],
       "accessibility" : [
         {
-          "text" : "Include statistics, and bold items to make them stand out",
+          "text" : "Ask directly and at the beginning of the email",
           "targetRectangle" : {
             "y" : 265.64468383789062,
             "x" : 208.87499725818634,
-            "width" : 1585.5510000000002,
-            "height" : 188
+            "width" : 1525.797,
+            "height" : 94
           }
         },
         {
@@ -821,7 +821,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "C668E611EFC1B432EA053D1CC642727D"
+                    "texture" : "5435B4B491F32615843F82AD52481DA5"
                   }
                 ]
               }
@@ -1325,10 +1325,10 @@
                   "rotation" : 0,
                   "scale" : 1,
                   "position" : {
-                    "pointX" : 954,
-                    "pointY" : 350.64468383789062
+                    "pointX" : 930.5,
+                    "pointY" : 321.14468383789062
                   },
-                  "width" : 1642,
+                  "width" : 1595,
                   "sublayerTransform" : [
                     1,
                     0,
@@ -1355,7 +1355,7 @@
                   },
                   "opacity" : 1,
                   "edgeAntialiasingMask" : 251658240,
-                  "height" : 178,
+                  "height" : 119,
                   "hidden" : false,
                   "anchorPoint" : {
                     "pointX" : 0.5,
@@ -1372,8 +1372,8 @@
                     ],
                     "texturedRectangle" : {
                       "singleTextureOpacity" : 1,
-                      "textXHeight" : 0.19304494382022472,
-                      "textBaseline" : 0.9853419614641854,
+                      "textXHeight" : 0.28875630252100842,
+                      "textBaseline" : 0.68395688353466388,
                       "isBackgroundTexture" : true,
                       "isVerticalText" : false,
                       "textColor" : [
@@ -1397,10 +1397,10 @@
                       "rotation" : 0,
                       "scale" : 1,
                       "position" : {
-                        "pointX" : 825,
-                        "pointY" : 80.355316162109375
+                        "pointX" : 801.5,
+                        "pointY" : 50.855316162109375
                       },
-                      "width" : 1642,
+                      "width" : 1595,
                       "sublayerTransform" : [
                         1,
                         0,
@@ -1427,14 +1427,14 @@
                       },
                       "opacity" : 1,
                       "edgeAntialiasingMask" : 0,
-                      "height" : 178,
+                      "height" : 119,
                       "hidden" : false,
                       "anchorPoint" : {
                         "pointX" : 0.5,
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "E9BA6B16BFF2D948C540C917E2261776"
+                    "texture" : "CBC35BE691A1C3ADE5B3AD0D73A923A4"
                   }
                 ]
               }

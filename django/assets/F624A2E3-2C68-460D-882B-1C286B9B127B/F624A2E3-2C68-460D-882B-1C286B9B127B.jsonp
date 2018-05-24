@@ -2,6 +2,20 @@ local_slide( {
   "name" : "F624A2E3-2C68-460D-882B-1C286B9B127B",
   "json" : {
     "assets" : {
+      "5435B4B491F32615843F82AD52481DA5" : {
+        "type" : "texture",
+        "index" : 1,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/F624A2E3-2C68-460D-882B-1C286B9B127B.pdf"
+        },
+        "width" : 1990,
+        "height" : 1086
+      },
       "88963A8EAA48F0D39E92BF6BE148EA03" : {
         "type" : "texture",
         "index" : 3,
@@ -43,20 +57,6 @@ local_slide( {
         },
         "width" : 1920,
         "height" : 1080
-      },
-      "7D567A6F1520D532FC2D193439B287D0" : {
-        "type" : "texture",
-        "index" : 1,
-        "assetRequest" : {
-          "type" : "slide",
-          "state" : "contents",
-          "slide" : "none"
-        },
-        "url" : {
-          "native" : "assets\/F624A2E3-2C68-460D-882B-1C286B9B127B.pdf"
-        },
-        "width" : 1990,
-        "height" : 1086
       },
       "CB4047592F3109B4AD389796F0AE7DBA" : {
         "type" : "texture",
@@ -406,24 +406,6 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "–Reshma Saujani, Girls Who Code founder, from her TED talk",
-            "targetRectangle" : {
-              "y" : 684.40399169921875,
-              "x" : 184.70801147460935,
-              "width" : 832.32000000000016,
-              "height" : 279
-            }
-          },
-          {
-            "text" : "“We’re raising our girls to be perfect, and we’re raising our boys to be brave.” ",
-            "targetRectangle" : {
-              "y" : 118.49999904632568,
-              "x" : 237.25288696289061,
-              "width" : 787.59999999999991,
-              "height" : 545
-            }
-          },
-          {
             "text" : "RESHMA-PHOTO-1.jpg",
             "targetRectangle" : {
               "y" : 6.2454788007926254e-08,
@@ -439,6 +421,24 @@ local_slide( {
               "x" : -9.8275365829463226,
               "width" : 1987.096923828125,
               "height" : 1082.4157420545816
+            }
+          },
+          {
+            "text" : "“We’re raising our girls to be perfect, and we’re raising our boys to be brave.” ",
+            "targetRectangle" : {
+              "y" : 118.49999904632568,
+              "x" : 237.25288696289061,
+              "width" : 787.59999999999991,
+              "height" : 545
+            }
+          },
+          {
+            "text" : "–Reshma Saujani, Girls Who Code founder, from her TED talk",
+            "targetRectangle" : {
+              "y" : 684.40399169921875,
+              "x" : 184.70801147460935,
+              "width" : 832.32000000000016,
+              "height" : 279
             }
           }
         ],
@@ -854,7 +854,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "7D567A6F1520D532FC2D193439B287D0"
+                      "texture" : "5435B4B491F32615843F82AD52481DA5"
                     }
                   ]
                 }

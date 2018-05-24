@@ -2,9 +2,9 @@ local_slide( {
   "name" : "7C594005-7400-4C58-A149-C4E179851391",
   "json" : {
     "assets" : {
-      "6F8AB63F4DD96F06200150987CE2A177" : {
+      "92E0CAB88756BC61F8CF1FDEB2D6924D" : {
         "type" : "texture",
-        "index" : 2,
+        "index" : 0,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -13,8 +13,8 @@ local_slide( {
         "url" : {
           "native" : "assets\/7C594005-7400-4C58-A149-C4E179851391.pdf"
         },
-        "width" : 1970,
-        "height" : 1087
+        "width" : 1920,
+        "height" : 1080
       },
       "EC09FFC6D77F21141E40D596F89BFE95" : {
         "type" : "texture",
@@ -44,9 +44,9 @@ local_slide( {
         "width" : 1920,
         "height" : 1080
       },
-      "B0D1CA481870F0EC8B617A4FC8057A4C" : {
+      "6F8AB63F4DD96F06200150987CE2A177" : {
         "type" : "texture",
-        "index" : 0,
+        "index" : 2,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -55,8 +55,8 @@ local_slide( {
         "url" : {
           "native" : "assets\/7C594005-7400-4C58-A149-C4E179851391.pdf"
         },
-        "width" : 1920,
-        "height" : 1080
+        "width" : 1970,
+        "height" : 1087
       },
       "5435B4B491F32615843F82AD52481DA5" : {
         "type" : "texture",
@@ -370,21 +370,21 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "room-view.jpg",
-            "targetRectangle" : {
-              "y" : -1.2079086303710938,
-              "x" : -9.8275365829463226,
-              "width" : 1987.096923828125,
-              "height" : 1082.4157420545816
-            }
-          },
-          {
             "text" : "django-girls-dark.png",
             "targetRectangle" : {
               "y" : 324.5625,
               "x" : 156.828125,
               "width" : 1606.352026808876,
               "height" : 430.875
+            }
+          },
+          {
+            "text" : "room-view.jpg",
+            "targetRectangle" : {
+              "y" : -1.2079086303710938,
+              "x" : -9.8275365829463226,
+              "width" : 1987.096923828125,
+              "height" : 1082.4157420545816
             }
           }
         ],
@@ -619,7 +619,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "B0D1CA481870F0EC8B617A4FC8057A4C"
+                      "texture" : "92E0CAB88756BC61F8CF1FDEB2D6924D"
                     }
                   ]
                 }

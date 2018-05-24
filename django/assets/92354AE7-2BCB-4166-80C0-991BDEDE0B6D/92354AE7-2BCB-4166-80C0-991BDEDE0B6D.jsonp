@@ -44,20 +44,6 @@ local_slide( {
         "width" : 1920,
         "height" : 1080
       },
-      "45372739FCB717AA7CD77F20BAB58753" : {
-        "type" : "texture",
-        "index" : 1,
-        "assetRequest" : {
-          "type" : "slide",
-          "state" : "contents",
-          "slide" : "none"
-        },
-        "url" : {
-          "native" : "assets\/92354AE7-2BCB-4166-80C0-991BDEDE0B6D.pdf"
-        },
-        "width" : 1990,
-        "height" : 1086
-      },
       "AB5E23E421901530B01C3018C4256B74" : {
         "type" : "texture",
         "index" : 2,
@@ -71,6 +57,20 @@ local_slide( {
         },
         "width" : 2138,
         "height" : 1082
+      },
+      "5435B4B491F32615843F82AD52481DA5" : {
+        "type" : "texture",
+        "index" : 1,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/92354AE7-2BCB-4166-80C0-991BDEDE0B6D.pdf"
+        },
+        "width" : 1990,
+        "height" : 1086
       },
       "F028D0DF4FCAF8412F522331A784AC23" : {
         "type" : "texture",
@@ -370,21 +370,21 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "DO: Need to be open to learning new things",
-            "targetRectangle" : {
-              "y" : 387,
-              "x" : 278.70400000000006,
-              "width" : 1390.5919999999996,
-              "height" : 306
-            }
-          },
-          {
             "text" : "room-view.jpg",
             "targetRectangle" : {
               "y" : -1.2079086303710938,
               "x" : -9.8275365829463226,
               "width" : 1987.096923828125,
               "height" : 1082.4157420545816
+            }
+          },
+          {
+            "text" : "DO: Need to be open to learning new things",
+            "targetRectangle" : {
+              "y" : 387,
+              "x" : 278.70400000000006,
+              "width" : 1390.5919999999996,
+              "height" : 306
             }
           }
         ],
@@ -800,7 +800,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "45372739FCB717AA7CD77F20BAB58753"
+                      "texture" : "5435B4B491F32615843F82AD52481DA5"
                     }
                   ]
                 }

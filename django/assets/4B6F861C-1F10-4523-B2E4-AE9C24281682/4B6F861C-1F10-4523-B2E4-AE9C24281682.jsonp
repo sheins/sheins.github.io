@@ -384,6 +384,15 @@ local_slide( {
         ],
         "accessibility" : [
           {
+            "text" : "room-view.jpg",
+            "targetRectangle" : {
+              "y" : -1.2079086303710938,
+              "x" : -9.8275365829463226,
+              "width" : 1987.096923828125,
+              "height" : 1082.4157420545816
+            }
+          },
+          {
             "text" : "What Django Girls is, and why we need it",
             "targetRectangle" : {
               "y" : 427.64468383789062,
@@ -417,15 +426,6 @@ local_slide( {
               "x" : 333.24800000000005,
               "width" : 1253.5039999999999,
               "height" : 153
-            }
-          },
-          {
-            "text" : "room-view.jpg",
-            "targetRectangle" : {
-              "y" : -1.2079086303710938,
-              "x" : -9.8275365829463226,
-              "width" : 1987.096923828125,
-              "height" : 1082.4157420545816
             }
           }
         ],

@@ -14,7 +14,7 @@
       "width" : 1920,
       "height" : 1080
     },
-    "96D0E0DA43036D594EBB7C308A030B4C" : {
+    "DFC050EF25A7D37D34F6C1141FB6954A" : {
       "type" : "texture",
       "index" : 4,
       "assetRequest" : {
@@ -266,7 +266,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "96D0E0DA43036D594EBB7C308A030B4C"
+                    "texture" : "DFC050EF25A7D37D34F6C1141FB6954A"
                   },
                   {
                     "animations" : [
@@ -368,21 +368,21 @@
       ],
       "accessibility" : [
         {
-          "text" : "room-view.jpg",
-          "targetRectangle" : {
-            "y" : -1.2079086303710938,
-            "x" : -9.8275365829463226,
-            "width" : 1987.096923828125,
-            "height" : 1082.4157420545816
-          }
-        },
-        {
           "text" : "So, what is Django Girls anyway?",
           "targetRectangle" : {
             "y" : 387,
             "x" : 274.27999999999997,
             "width" : 1399.4400000000001,
             "height" : 306
+          }
+        },
+        {
+          "text" : "room-view.jpg",
+          "targetRectangle" : {
+            "y" : -1.2079086303710938,
+            "x" : -9.8275365829463226,
+            "width" : 1987.096923828125,
+            "height" : 1082.4157420545816
           }
         }
       ],

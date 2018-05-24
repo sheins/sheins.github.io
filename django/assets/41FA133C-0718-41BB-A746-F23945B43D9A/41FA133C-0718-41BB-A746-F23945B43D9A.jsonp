@@ -510,12 +510,12 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "room-view.jpg",
+            "text" : "Meetups\/events",
             "targetRectangle" : {
-              "y" : -1.2079086303710938,
-              "x" : -9.8275365829463226,
-              "width" : 1987.096923828125,
-              "height" : 1082.4157420545816
+              "y" : 863,
+              "x" : 438.68978881835938,
+              "width" : 544.82400000000007,
+              "height" : 94
             }
           },
           {
@@ -524,15 +524,6 @@ local_slide( {
               "y" : 470,
               "x" : 1348.4615478515625,
               "width" : 366.52800000000002,
-              "height" : 94
-            }
-          },
-          {
-            "text" : "Blog posts",
-            "targetRectangle" : {
-              "y" : 470,
-              "x" : 806.99334716796875,
-              "width" : 352.452,
               "height" : 94
             }
           },
@@ -546,15 +537,6 @@ local_slide( {
             }
           },
           {
-            "text" : "Flyers",
-            "targetRectangle" : {
-              "y" : 863,
-              "x" : 1175.8779296875,
-              "width" : 200.44499999999994,
-              "height" : 94
-            }
-          },
-          {
             "text" : "Recruitment Ideas",
             "targetRectangle" : {
               "y" : 42,
@@ -564,12 +546,30 @@ local_slide( {
             }
           },
           {
-            "text" : "Meetups\/events",
+            "text" : "Blog posts",
+            "targetRectangle" : {
+              "y" : 470,
+              "x" : 806.99334716796875,
+              "width" : 352.452,
+              "height" : 94
+            }
+          },
+          {
+            "text" : "Flyers",
             "targetRectangle" : {
               "y" : 863,
-              "x" : 438.68978881835938,
-              "width" : 544.82400000000007,
+              "x" : 1175.8779296875,
+              "width" : 200.44499999999994,
               "height" : 94
+            }
+          },
+          {
+            "text" : "room-view.jpg",
+            "targetRectangle" : {
+              "y" : -1.2079086303710938,
+              "x" : -9.8275365829463226,
+              "width" : 1987.096923828125,
+              "height" : 1082.4157420545816
             }
           }
         ],

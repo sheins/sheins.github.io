@@ -1,8 +1,36 @@
 {
   "assets" : {
+    "5435B4B491F32615843F82AD52481DA5" : {
+      "type" : "texture",
+      "index" : 1,
+      "assetRequest" : {
+        "type" : "slide",
+        "state" : "contents",
+        "slide" : "none"
+      },
+      "url" : {
+        "native" : "assets\/94923313-B86E-437B-8488-7C4D907D77D2.pdf"
+      },
+      "width" : 1990,
+      "height" : 1086
+    },
     "1C700434112606E24FAB9D82F3FEA1AC" : {
       "type" : "texture",
       "index" : 3,
+      "assetRequest" : {
+        "type" : "slide",
+        "state" : "contents",
+        "slide" : "none"
+      },
+      "url" : {
+        "native" : "assets\/94923313-B86E-437B-8488-7C4D907D77D2.pdf"
+      },
+      "width" : 586,
+      "height" : 439
+    },
+    "72E88DABB33A93A49F2764719748C47F" : {
+      "type" : "texture",
+      "index" : 4,
       "assetRequest" : {
         "type" : "slide",
         "state" : "contents",
@@ -27,20 +55,6 @@
       },
       "width" : 1920,
       "height" : 1080
-    },
-    "72E88DABB33A93A49F2764719748C47F" : {
-      "type" : "texture",
-      "index" : 4,
-      "assetRequest" : {
-        "type" : "slide",
-        "state" : "contents",
-        "slide" : "none"
-      },
-      "url" : {
-        "native" : "assets\/94923313-B86E-437B-8488-7C4D907D77D2.pdf"
-      },
-      "width" : 586,
-      "height" : 439
     },
     "C25C25FF361FB24FC35F6B120D2F252D" : {
       "type" : "texture",
@@ -83,20 +97,6 @@
       },
       "width" : 2138,
       "height" : 1082
-    },
-    "AAB3CCE91F5F1BC0A123117934AF11AB" : {
-      "type" : "texture",
-      "index" : 1,
-      "assetRequest" : {
-        "type" : "slide",
-        "state" : "contents",
-        "slide" : "none"
-      },
-      "url" : {
-        "native" : "assets\/94923313-B86E-437B-8488-7C4D907D77D2.pdf"
-      },
-      "width" : 1990,
-      "height" : 1086
     },
     "6D71300B63A1E31FCC7F6FB66F70ACBA" : {
       "type" : "texture",
@@ -396,9 +396,9 @@
       ],
       "accessibility" : [
         {
-          "text" : "ida-rhodes-table.jpg",
+          "text" : "swag-mug.jpg",
           "targetRectangle" : {
-            "y" : 555,
+            "y" : 89,
             "x" : 1240.9999694824219,
             "width" : 583,
             "height" : 437
@@ -423,9 +423,9 @@
           }
         },
         {
-          "text" : "swag-mug.jpg",
+          "text" : "ida-rhodes-table.jpg",
           "targetRectangle" : {
-            "y" : 89,
+            "y" : 555,
             "x" : 1240.9999694824219,
             "width" : 583,
             "height" : 437
@@ -844,7 +844,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "AAB3CCE91F5F1BC0A123117934AF11AB"
+                    "texture" : "5435B4B491F32615843F82AD52481DA5"
                   }
                 ]
               }

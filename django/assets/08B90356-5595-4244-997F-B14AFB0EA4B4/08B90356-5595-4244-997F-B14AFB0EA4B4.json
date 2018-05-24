@@ -84,6 +84,20 @@
       "width" : 1920,
       "height" : 1080
     },
+    "4F53E016A6F6A85EB252D0CF8225869F" : {
+      "type" : "texture",
+      "index" : 6,
+      "assetRequest" : {
+        "type" : "slide",
+        "state" : "contents",
+        "slide" : "none"
+      },
+      "url" : {
+        "native" : "assets\/08B90356-5595-4244-997F-B14AFB0EA4B4.pdf"
+      },
+      "width" : 1920,
+      "height" : 1080
+    },
     "6F8AB63F4DD96F06200150987CE2A177" : {
       "type" : "texture",
       "index" : 2,
@@ -97,20 +111,6 @@
       },
       "width" : 1970,
       "height" : 1087
-    },
-    "988B73F5D73158805DF49644A722538A" : {
-      "type" : "texture",
-      "index" : 6,
-      "assetRequest" : {
-        "type" : "slide",
-        "state" : "contents",
-        "slide" : "none"
-      },
-      "url" : {
-        "native" : "assets\/08B90356-5595-4244-997F-B14AFB0EA4B4.pdf"
-      },
-      "width" : 1920,
-      "height" : 1080
     }
   },
   "events" : [
@@ -294,7 +294,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "988B73F5D73158805DF49644A722538A"
+                    "texture" : "4F53E016A6F6A85EB252D0CF8225869F"
                   },
                   {
                     "animations" : [
@@ -396,21 +396,21 @@
       ],
       "accessibility" : [
         {
-          "text" : "django-girls-dark.png",
-          "targetRectangle" : {
-            "y" : 580.89068603515625,
-            "x" : 912.27667236328125,
-            "width" : 727,
-            "height" : 195
-          }
-        },
-        {
           "text" : "room-view.jpg",
           "targetRectangle" : {
             "y" : -1.2079086303710938,
             "x" : -9.8275365829463226,
             "width" : 1987.096923828125,
             "height" : 1082.4157420545816
+          }
+        },
+        {
+          "text" : "Want More Women in Tech?",
+          "targetRectangle" : {
+            "y" : 398.59358215332031,
+            "x" : 82.112894439697016,
+            "width" : 1765.5750000000007,
+            "height" : 182
           }
         },
         {
@@ -423,12 +423,12 @@
           }
         },
         {
-          "text" : "Want More Women in Tech?",
+          "text" : "django-girls-dark.png",
           "targetRectangle" : {
-            "y" : 398.59358215332031,
-            "x" : 82.112894439697016,
-            "width" : 1765.5750000000007,
-            "height" : 182
+            "y" : 580.89068603515625,
+            "x" : 912.27667236328125,
+            "width" : 727,
+            "height" : 195
           }
         }
       ],

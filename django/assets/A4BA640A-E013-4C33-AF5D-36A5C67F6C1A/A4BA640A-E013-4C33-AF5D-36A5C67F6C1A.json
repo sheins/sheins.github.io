@@ -550,6 +550,15 @@
       ],
       "accessibility" : [
         {
+          "text" : "6. After Event",
+          "targetRectangle" : {
+            "y" : 881.22564697265625,
+            "x" : 1320.8665771484375,
+            "width" : 453.8130000000001,
+            "height" : 94
+          }
+        },
+        {
           "text" : "6 Stages of Organizing",
           "targetRectangle" : {
             "y" : 42,
@@ -600,15 +609,6 @@
             "y" : 489.3021240234375,
             "x" : 175.05039978027344,
             "width" : 377.56799999999998,
-            "height" : 94
-          }
-        },
-        {
-          "text" : "6. After Event",
-          "targetRectangle" : {
-            "y" : 881.22564697265625,
-            "x" : 1320.8665771484375,
-            "width" : 453.8130000000001,
             "height" : 94
           }
         },

@@ -550,47 +550,11 @@
       ],
       "accessibility" : [
         {
-          "text" : "2. Recruitment",
-          "targetRectangle" : {
-            "y" : 489.3021240234375,
-            "x" : 669.1607666015625,
-            "width" : 490.03800000000001,
-            "height" : 94
-          }
-        },
-        {
-          "text" : "6 Stages of Organizing",
-          "targetRectangle" : {
-            "y" : 42,
-            "x" : 295.89599999999973,
-            "width" : 1328.2080000000005,
-            "height" : 153
-          }
-        },
-        {
-          "text" : "room-view.jpg",
-          "targetRectangle" : {
-            "y" : -1.2079086303710938,
-            "x" : -9.8275365829463226,
-            "width" : 1987.096923828125,
-            "height" : 1082.4157420545816
-          }
-        },
-        {
           "text" : "5. Day of",
           "targetRectangle" : {
             "y" : 881.22564697265625,
             "x" : 804.21380615234375,
             "width" : 298.01099999999997,
-            "height" : 94
-          }
-        },
-        {
-          "text" : "1. Planning",
-          "targetRectangle" : {
-            "y" : 489.3021240234375,
-            "x" : 175.05039978027344,
-            "width" : 377.56799999999998,
             "height" : 94
           }
         },
@@ -604,6 +568,33 @@
           }
         },
         {
+          "text" : "4. Final Stretch ",
+          "targetRectangle" : {
+            "y" : 881.22564697265625,
+            "x" : 133.38508605957031,
+            "width" : 512.18700000000001,
+            "height" : 94
+          }
+        },
+        {
+          "text" : "2. Recruitment",
+          "targetRectangle" : {
+            "y" : 489.3021240234375,
+            "x" : 669.1607666015625,
+            "width" : 490.03800000000001,
+            "height" : 94
+          }
+        },
+        {
+          "text" : "1. Planning",
+          "targetRectangle" : {
+            "y" : 489.3021240234375,
+            "x" : 175.05039978027344,
+            "width" : 377.56799999999998,
+            "height" : 94
+          }
+        },
+        {
           "text" : "6. After Event",
           "targetRectangle" : {
             "y" : 881.22564697265625,
@@ -613,12 +604,21 @@
           }
         },
         {
-          "text" : "4. Final Stretch ",
+          "text" : "room-view.jpg",
           "targetRectangle" : {
-            "y" : 881.22564697265625,
-            "x" : 133.38508605957031,
-            "width" : 512.18700000000001,
-            "height" : 94
+            "y" : -1.2079086303710938,
+            "x" : -9.8275365829463226,
+            "width" : 1987.096923828125,
+            "height" : 1082.4157420545816
+          }
+        },
+        {
+          "text" : "6 Stages of Organizing",
+          "targetRectangle" : {
+            "y" : 42,
+            "x" : 295.89599999999973,
+            "width" : 1328.2080000000005,
+            "height" : 153
           }
         }
       ],

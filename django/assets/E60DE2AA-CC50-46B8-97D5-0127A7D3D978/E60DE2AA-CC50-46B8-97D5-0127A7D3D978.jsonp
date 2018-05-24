@@ -2,6 +2,20 @@ local_slide( {
   "name" : "E60DE2AA-CC50-46B8-97D5-0127A7D3D978",
   "json" : {
     "assets" : {
+      "5435B4B491F32615843F82AD52481DA5" : {
+        "type" : "texture",
+        "index" : 1,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/E60DE2AA-CC50-46B8-97D5-0127A7D3D978.pdf"
+        },
+        "width" : 1990,
+        "height" : 1086
+      },
       "29F12E92E178D11652E15DA2428F747A" : {
         "type" : "texture",
         "index" : 3,
@@ -85,20 +99,6 @@ local_slide( {
         },
         "width" : 775,
         "height" : 376
-      },
-      "E3FDEDF7AFAFBB2D95AFC0A9A568292A" : {
-        "type" : "texture",
-        "index" : 1,
-        "assetRequest" : {
-          "type" : "slide",
-          "state" : "contents",
-          "slide" : "none"
-        },
-        "url" : {
-          "native" : "assets\/E60DE2AA-CC50-46B8-97D5-0127A7D3D978.pdf"
-        },
-        "width" : 1990,
-        "height" : 1086
       },
       "6F8AB63F4DD96F06200150987CE2A177" : {
         "type" : "texture",
@@ -398,6 +398,15 @@ local_slide( {
         ],
         "accessibility" : [
           {
+            "text" : "room-view.jpg",
+            "targetRectangle" : {
+              "y" : -1.2079086303710938,
+              "x" : -9.8275365829463226,
+              "width" : 1987.096923828125,
+              "height" : 1082.4157420545816
+            }
+          },
+          {
             "text" : "How to survive running the workshop",
             "targetRectangle" : {
               "y" : 103.5,
@@ -413,15 +422,6 @@ local_slide( {
               "x" : -0.314239501953125,
               "width" : 895.0625,
               "height" : 1077.65625
-            }
-          },
-          {
-            "text" : "room-view.jpg",
-            "targetRectangle" : {
-              "y" : -1.2079086303710938,
-              "x" : -9.8275365829463226,
-              "width" : 1987.096923828125,
-              "height" : 1082.4157420545816
             }
           },
           {
@@ -846,7 +846,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "E3FDEDF7AFAFBB2D95AFC0A9A568292A"
+                      "texture" : "5435B4B491F32615843F82AD52481DA5"
                     }
                   ]
                 }

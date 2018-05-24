@@ -44,9 +44,9 @@ local_slide( {
         "width" : 161,
         "height" : 217
       },
-      "A534FB007CC8807E3DDA6AB3DDED5443" : {
+      "AB5E23E421901530B01C3018C4256B74" : {
         "type" : "texture",
-        "index" : 3,
+        "index" : 2,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -55,8 +55,8 @@ local_slide( {
         "url" : {
           "native" : "assets\/8A32B9E2-2C7D-4311-918E-A84DA6E126A6.pdf"
         },
-        "width" : 1320,
-        "height" : 119
+        "width" : 2138,
+        "height" : 1082
       },
       "C0E6789EF5699741CBFD5568A73F9720" : {
         "type" : "texture",
@@ -86,9 +86,9 @@ local_slide( {
         "width" : 490,
         "height" : 56
       },
-      "1A50F54B7AF570146AAD599D1A2CD14D" : {
+      "A534FB007CC8807E3DDA6AB3DDED5443" : {
         "type" : "texture",
-        "index" : 8,
+        "index" : 3,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -97,8 +97,8 @@ local_slide( {
         "url" : {
           "native" : "assets\/8A32B9E2-2C7D-4311-918E-A84DA6E126A6.pdf"
         },
-        "width" : 148,
-        "height" : 174
+        "width" : 1320,
+        "height" : 119
       },
       "CC7C188E94F61C415417C961AF518BAC" : {
         "type" : "texture",
@@ -128,6 +128,20 @@ local_slide( {
         "width" : 497,
         "height" : 57
       },
+      "1A50F54B7AF570146AAD599D1A2CD14D" : {
+        "type" : "texture",
+        "index" : 8,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/8A32B9E2-2C7D-4311-918E-A84DA6E126A6.pdf"
+        },
+        "width" : 148,
+        "height" : 174
+      },
       "BEAF5D2F7D9B820B52D921D346484B68" : {
         "type" : "texture",
         "index" : 6,
@@ -141,20 +155,6 @@ local_slide( {
         },
         "width" : 140,
         "height" : 224
-      },
-      "9598CAB5D7D57EEB738ED1993B89BD17" : {
-        "type" : "texture",
-        "index" : 2,
-        "assetRequest" : {
-          "type" : "slide",
-          "state" : "contents",
-          "slide" : "none"
-        },
-        "url" : {
-          "native" : "assets\/8A32B9E2-2C7D-4311-918E-A84DA6E126A6.pdf"
-        },
-        "width" : 2138,
-        "height" : 1082
       },
       "C25C25FF361FB24FC35F6B120D2F252D" : {
         "type" : "texture",
@@ -552,6 +552,24 @@ local_slide( {
         ],
         "accessibility" : [
           {
+            "text" : "6. After Event",
+            "targetRectangle" : {
+              "y" : 881.22564697265625,
+              "x" : 1320.8665771484375,
+              "width" : 453.8130000000001,
+              "height" : 94
+            }
+          },
+          {
+            "text" : "6 Stages of Organizing",
+            "targetRectangle" : {
+              "y" : 42,
+              "x" : 295.89599999999973,
+              "width" : 1328.2080000000005,
+              "height" : 153
+            }
+          },
+          {
             "text" : "5. Day of",
             "targetRectangle" : {
               "y" : 881.22564697265625,
@@ -570,30 +588,21 @@ local_slide( {
             }
           },
           {
-            "text" : "room-view.jpg",
-            "targetRectangle" : {
-              "y" : -1.2079086303710938,
-              "x" : -9.8275365829463226,
-              "width" : 1987.096923828125,
-              "height" : 1082.4157420545816
-            }
-          },
-          {
-            "text" : "6 Stages of Organizing",
-            "targetRectangle" : {
-              "y" : 42,
-              "x" : 295.89599999999973,
-              "width" : 1328.2080000000005,
-              "height" : 153
-            }
-          },
-          {
             "text" : "4. Final Stretch ",
             "targetRectangle" : {
               "y" : 881.22564697265625,
               "x" : 133.38508605957031,
               "width" : 512.18700000000001,
               "height" : 94
+            }
+          },
+          {
+            "text" : "room-view.jpg",
+            "targetRectangle" : {
+              "y" : -1.2079086303710938,
+              "x" : -9.8275365829463226,
+              "width" : 1987.096923828125,
+              "height" : 1082.4157420545816
             }
           },
           {
@@ -611,15 +620,6 @@ local_slide( {
               "y" : 489.3021240234375,
               "x" : 175.05039978027344,
               "width" : 377.56799999999998,
-              "height" : 94
-            }
-          },
-          {
-            "text" : "6. After Event",
-            "targetRectangle" : {
-              "y" : 881.22564697265625,
-              "x" : 1320.8665771484375,
-              "width" : 453.8130000000001,
               "height" : 94
             }
           }
@@ -1275,7 +1275,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "9598CAB5D7D57EEB738ED1993B89BD17"
+                      "texture" : "AB5E23E421901530B01C3018C4256B74"
                     }
                   ]
                 }

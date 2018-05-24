@@ -575,21 +575,21 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "room-view.jpg",
-            "targetRectangle" : {
-              "y" : -1.2079086303710938,
-              "x" : -9.8275365829463226,
-              "width" : 1987.096923828125,
-              "height" : 1082.4157420545816
-            }
-          },
-          {
             "text" : "You just need to be brave! ",
             "targetRectangle" : {
               "y" : 235,
               "x" : 198.00800000000015,
               "width" : 1551.9839999999995,
               "height" : 153
+            }
+          },
+          {
+            "text" : "room-view.jpg",
+            "targetRectangle" : {
+              "y" : -1.2079086303710938,
+              "x" : -9.8275365829463226,
+              "width" : 1987.096923828125,
+              "height" : 1082.4157420545816
             }
           }
         ],
@@ -1903,21 +1903,21 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "room-view.jpg",
-            "targetRectangle" : {
-              "y" : -1.2079086303710938,
-              "x" : -9.8275365829463226,
-              "width" : 1987.096923828125,
-              "height" : 1082.4157420545816
-            }
-          },
-          {
             "text" : "You just need to be brave! ",
             "targetRectangle" : {
               "y" : 235,
               "x" : 198.00800000000015,
               "width" : 1551.9839999999995,
               "height" : 153
+            }
+          },
+          {
+            "text" : "room-view.jpg",
+            "targetRectangle" : {
+              "y" : -1.2079086303710938,
+              "x" : -9.8275365829463226,
+              "width" : 1987.096923828125,
+              "height" : 1082.4157420545816
             }
           }
         ],

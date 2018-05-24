@@ -382,15 +382,6 @@
       ],
       "accessibility" : [
         {
-          "text" : "DjangoGirls_2017-410-1.jpg",
-          "targetRectangle" : {
-            "y" : 53,
-            "x" : 246.1392822265625,
-            "width" : 1428,
-            "height" : 688
-          }
-        },
-        {
           "text" : "room-view.jpg",
           "targetRectangle" : {
             "y" : -1.2079086303710938,
@@ -406,6 +397,15 @@
             "x" : 295.07391999999993,
             "width" : 1329.8521600000004,
             "height" : 150
+          }
+        },
+        {
+          "text" : "DjangoGirls_2017-410-1.jpg",
+          "targetRectangle" : {
+            "y" : 53,
+            "x" : 246.1392822265625,
+            "width" : 1428,
+            "height" : 688
           }
         }
       ],

@@ -396,21 +396,21 @@
       ],
       "accessibility" : [
         {
-          "text" : "Kansas City, MO, USA",
-          "targetRectangle" : {
-            "y" : 107.55329895019531,
-            "x" : 352.38734509277356,
-            "width" : 1262.6639999999998,
-            "height" : 156
-          }
-        },
-        {
           "text" : "room-view.jpg",
           "targetRectangle" : {
             "y" : -1.2079086303710938,
             "x" : -9.8275365829463226,
             "width" : 1987.096923828125,
             "height" : 1082.4157420545816
+          }
+        },
+        {
+          "text" : "Kansas City, MO, USA",
+          "targetRectangle" : {
+            "y" : 107.55329895019531,
+            "x" : 352.38734509277356,
+            "width" : 1262.6639999999998,
+            "height" : 156
           }
         }
       ],

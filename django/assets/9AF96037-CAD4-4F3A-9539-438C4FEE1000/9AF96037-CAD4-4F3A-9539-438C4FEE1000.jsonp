@@ -30,34 +30,6 @@ local_slide( {
         "width" : 1920,
         "height" : 1080
       },
-      "33B83ED06A027BCEA83A745643AF1825" : {
-        "type" : "texture",
-        "index" : 3,
-        "assetRequest" : {
-          "type" : "slide",
-          "state" : "contents",
-          "slide" : "none"
-        },
-        "url" : {
-          "native" : "assets\/9AF96037-CAD4-4F3A-9539-438C4FEE1000.pdf"
-        },
-        "width" : 917,
-        "height" : 864
-      },
-      "D6E0399B5CE1A47FF9A7D19937E545E9" : {
-        "type" : "texture",
-        "index" : 4,
-        "assetRequest" : {
-          "type" : "slide",
-          "state" : "contents",
-          "slide" : "none"
-        },
-        "url" : {
-          "native" : "assets\/9AF96037-CAD4-4F3A-9539-438C4FEE1000.pdf"
-        },
-        "width" : 729,
-        "height" : 1090
-      },
       "C25C25FF361FB24FC35F6B120D2F252D" : {
         "type" : "texture",
         "index" : 0,
@@ -72,7 +44,7 @@ local_slide( {
         "width" : 1920,
         "height" : 1080
       },
-      "C6E5DEE857CC1E7B626E4A74024FCDA4" : {
+      "356F2AC2EC7EEDAB526C866D1F2D1198" : {
         "type" : "texture",
         "index" : 6,
         "assetRequest" : {
@@ -85,6 +57,20 @@ local_slide( {
         },
         "width" : 1920,
         "height" : 1080
+      },
+      "AA1F75C40915C44B69E0D753C58922AD" : {
+        "type" : "texture",
+        "index" : 4,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/9AF96037-CAD4-4F3A-9539-438C4FEE1000.pdf"
+        },
+        "width" : 729,
+        "height" : 1090
       },
       "AB5E23E421901530B01C3018C4256B74" : {
         "type" : "texture",
@@ -99,6 +85,20 @@ local_slide( {
         },
         "width" : 2138,
         "height" : 1082
+      },
+      "E9E682E18530221C3595294C7C0EC6B3" : {
+        "type" : "texture",
+        "index" : 3,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/9AF96037-CAD4-4F3A-9539-438C4FEE1000.pdf"
+        },
+        "width" : 917,
+        "height" : 864
       }
     },
     "events" : [
@@ -363,7 +363,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "C6E5DEE857CC1E7B626E4A74024FCDA4"
+                      "texture" : "356F2AC2EC7EEDAB526C866D1F2D1198"
                     }
                   ]
                 }
@@ -429,11 +429,11 @@ local_slide( {
             }
           },
           {
-            "text" : "Break for lunch",
+            "text" : "Break for Lunch",
             "targetRectangle" : {
               "y" : 632.92467308044434,
               "x" : 223.50000229485659,
-              "width" : 369.41357999999991,
+              "width" : 380.29349999999999,
               "height" : 111.07000112533569
             }
           },
@@ -447,21 +447,12 @@ local_slide( {
             }
           },
           {
-            "text" : "Mentor Appreciation party",
+            "text" : "Mentor Appreciation Party",
             "targetRectangle" : {
               "y" : 855.06467533111572,
               "x" : 223.50000229485659,
-              "width" : 648.91671000000008,
+              "width" : 645.69303000000014,
               "height" : 124.67000436782837
-            }
-          },
-          {
-            "text" : "DjangoGirls_2017-1207.jpg",
-            "targetRectangle" : {
-              "y" : -3.8804073333740234,
-              "x" : 1197.7733154296875,
-              "width" : 725.72503662109375,
-              "height" : 1087.7608642578125
             }
           },
           {
@@ -471,6 +462,15 @@ local_slide( {
               "x" : -9.8275365829463226,
               "width" : 1987.096923828125,
               "height" : 1082.4157420545816
+            }
+          },
+          {
+            "text" : "DjangoGirls_2017-1207.jpg",
+            "targetRectangle" : {
+              "y" : -3.8804073333740234,
+              "x" : 1197.7733154296875,
+              "width" : 725.72503662109375,
+              "height" : 1087.7608642578125
             }
           }
         ],
@@ -1312,7 +1312,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "33B83ED06A027BCEA83A745643AF1825"
+                      "texture" : "E9E682E18530221C3595294C7C0EC6B3"
                     }
                   ]
                 }
@@ -1493,7 +1493,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "D6E0399B5CE1A47FF9A7D19937E545E9"
+                      "texture" : "AA1F75C40915C44B69E0D753C58922AD"
                     }
                   ]
                 }

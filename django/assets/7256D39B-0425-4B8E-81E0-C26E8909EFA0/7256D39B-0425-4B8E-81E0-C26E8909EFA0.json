@@ -84,9 +84,9 @@
       "width" : 2138,
       "height" : 1082
     },
-    "3FA3FA7A130EFBE5229D9AC2753BFC93" : {
+    "A534FB007CC8807E3DDA6AB3DDED5443" : {
       "type" : "texture",
-      "index" : 17,
+      "index" : 3,
       "assetRequest" : {
         "type" : "slide",
         "state" : "contents",
@@ -95,8 +95,8 @@
       "url" : {
         "native" : "assets\/7256D39B-0425-4B8E-81E0-C26E8909EFA0.pdf"
       },
-      "width" : 1920,
-      "height" : 1080
+      "width" : 1320,
+      "height" : 119
     },
     "CD3F4395A5D37A4371AB4CB06102A6A4" : {
       "type" : "texture",
@@ -126,6 +126,20 @@
       "width" : 549,
       "height" : 73
     },
+    "4CF147155B3FD43D95689205EB5E88DE" : {
+      "type" : "texture",
+      "index" : 1,
+      "assetRequest" : {
+        "type" : "slide",
+        "state" : "contents",
+        "slide" : "none"
+      },
+      "url" : {
+        "native" : "assets\/7256D39B-0425-4B8E-81E0-C26E8909EFA0.pdf"
+      },
+      "width" : 1990,
+      "height" : 1086
+    },
     "F77D4582D74A2477695B0FF7ACE0997D" : {
       "type" : "texture",
       "index" : 9,
@@ -140,23 +154,9 @@
       "width" : 281,
       "height" : 144
     },
-    "A534FB007CC8807E3DDA6AB3DDED5443" : {
+    "3FA3FA7A130EFBE5229D9AC2753BFC93" : {
       "type" : "texture",
-      "index" : 3,
-      "assetRequest" : {
-        "type" : "slide",
-        "state" : "contents",
-        "slide" : "none"
-      },
-      "url" : {
-        "native" : "assets\/7256D39B-0425-4B8E-81E0-C26E8909EFA0.pdf"
-      },
-      "width" : 1320,
-      "height" : 119
-    },
-    "E03AAF06E06173032C67E8FBBC90AB1E" : {
-      "type" : "texture",
-      "index" : 18,
+      "index" : 17,
       "assetRequest" : {
         "type" : "slide",
         "state" : "contents",
@@ -182,9 +182,9 @@
       "width" : 114,
       "height" : 196
     },
-    "08F0EFAEEE4C37CD7C637EA0A3770850" : {
+    "E03AAF06E06173032C67E8FBBC90AB1E" : {
       "type" : "texture",
-      "index" : 11,
+      "index" : 18,
       "assetRequest" : {
         "type" : "slide",
         "state" : "contents",
@@ -193,8 +193,8 @@
       "url" : {
         "native" : "assets\/7256D39B-0425-4B8E-81E0-C26E8909EFA0.pdf"
       },
-      "width" : 373,
-      "height" : 73
+      "width" : 1920,
+      "height" : 1080
     },
     "C25C25FF361FB24FC35F6B120D2F252D" : {
       "type" : "texture",
@@ -209,6 +209,20 @@
       },
       "width" : 1920,
       "height" : 1080
+    },
+    "08F0EFAEEE4C37CD7C637EA0A3770850" : {
+      "type" : "texture",
+      "index" : 11,
+      "assetRequest" : {
+        "type" : "slide",
+        "state" : "contents",
+        "slide" : "none"
+      },
+      "url" : {
+        "native" : "assets\/7256D39B-0425-4B8E-81E0-C26E8909EFA0.pdf"
+      },
+      "width" : 373,
+      "height" : 73
     },
     "2B96B65D051DA3A60B63DA81EA3CBECE" : {
       "type" : "texture",
@@ -237,20 +251,6 @@
       },
       "width" : 148,
       "height" : 174
-    },
-    "5435B4B491F32615843F82AD52481DA5" : {
-      "type" : "texture",
-      "index" : 1,
-      "assetRequest" : {
-        "type" : "slide",
-        "state" : "contents",
-        "slide" : "none"
-      },
-      "url" : {
-        "native" : "assets\/7256D39B-0425-4B8E-81E0-C26E8909EFA0.pdf"
-      },
-      "width" : 1990,
-      "height" : 1086
     },
     "5DC90857CDF3F1FB05EE2D7C63821189" : {
       "type" : "texture",
@@ -550,15 +550,6 @@
       ],
       "accessibility" : [
         {
-          "text" : "4. Final Stretch ",
-          "targetRectangle" : {
-            "y" : 881.22564697265625,
-            "x" : 133.38508605957031,
-            "width" : 512.18700000000001,
-            "height" : 94
-          }
-        },
-        {
           "text" : "2. Recruitment",
           "targetRectangle" : {
             "y" : 489.3021240234375,
@@ -618,6 +609,15 @@
             "y" : 489.3021240234375,
             "x" : 1282.955810546875,
             "width" : 565.11000000000013,
+            "height" : 94
+          }
+        },
+        {
+          "text" : "4. Final Stretch ",
+          "targetRectangle" : {
+            "y" : 881.22564697265625,
+            "x" : 133.38508605957031,
+            "width" : 512.18700000000001,
             "height" : 94
           }
         }
@@ -1034,7 +1034,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "5435B4B491F32615843F82AD52481DA5"
+                    "texture" : "4CF147155B3FD43D95689205EB5E88DE"
                   }
                 ]
               }

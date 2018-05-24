@@ -16,21 +16,7 @@ local_slide( {
         "width" : 1920,
         "height" : 1080
       },
-      "5435B4B491F32615843F82AD52481DA5" : {
-        "type" : "texture",
-        "index" : 1,
-        "assetRequest" : {
-          "type" : "slide",
-          "state" : "contents",
-          "slide" : "none"
-        },
-        "url" : {
-          "native" : "assets\/A7514811-30CB-4C4F-A92F-9D402E96EF61.pdf"
-        },
-        "width" : 1990,
-        "height" : 1086
-      },
-      "C25C25FF361FB24FC35F6B120D2F252D" : {
+      "EC6E1D7271B051DEB1FDF974E84EF624" : {
         "type" : "texture",
         "index" : 0,
         "assetRequest" : {
@@ -43,6 +29,20 @@ local_slide( {
         },
         "width" : 1920,
         "height" : 1080
+      },
+      "16C153A03FD09CE4C6EC5C6C974EE1F2" : {
+        "type" : "texture",
+        "index" : 3,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/A7514811-30CB-4C4F-A92F-9D402E96EF61.pdf"
+        },
+        "width" : 1614,
+        "height" : 272
       },
       "AB5E23E421901530B01C3018C4256B74" : {
         "type" : "texture",
@@ -58,9 +58,9 @@ local_slide( {
         "width" : 2138,
         "height" : 1082
       },
-      "16C153A03FD09CE4C6EC5C6C974EE1F2" : {
+      "5435B4B491F32615843F82AD52481DA5" : {
         "type" : "texture",
-        "index" : 3,
+        "index" : 1,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -69,8 +69,8 @@ local_slide( {
         "url" : {
           "native" : "assets\/A7514811-30CB-4C4F-A92F-9D402E96EF61.pdf"
         },
-        "width" : 1614,
-        "height" : 272
+        "width" : 1990,
+        "height" : 1086
       },
       "C6E5CA4D47217B9221B7BC27B6FA457C" : {
         "type" : "texture",
@@ -370,21 +370,21 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "room-view.jpg",
-            "targetRectangle" : {
-              "y" : -1.2079086303710938,
-              "x" : -9.8275365829463226,
-              "width" : 1987.096923828125,
-              "height" : 1082.4157420545816
-            }
-          },
-          {
             "text" : "How do we get girls to start programming?",
             "targetRectangle" : {
               "y" : 387,
               "x" : 150.91199999999992,
               "width" : 1646.1760000000004,
               "height" : 306
+            }
+          },
+          {
+            "text" : "room-view.jpg",
+            "targetRectangle" : {
+              "y" : -1.2079086303710938,
+              "x" : -9.8275365829463226,
+              "width" : 1987.096923828125,
+              "height" : 1082.4157420545816
             }
           }
         ],
@@ -619,7 +619,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "C25C25FF361FB24FC35F6B120D2F252D"
+                      "texture" : "EC6E1D7271B051DEB1FDF974E84EF624"
                     }
                   ]
                 }

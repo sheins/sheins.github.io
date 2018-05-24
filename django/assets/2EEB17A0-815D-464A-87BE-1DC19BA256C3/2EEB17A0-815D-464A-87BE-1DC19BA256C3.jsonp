@@ -384,6 +384,15 @@ local_slide( {
         ],
         "accessibility" : [
           {
+            "text" : "all-volunteers.jpg",
+            "targetRectangle" : {
+              "y" : 53,
+              "x" : 246.1392822265625,
+              "width" : 1428,
+              "height" : 688
+            }
+          },
+          {
             "text" : "Finding Mentors\/Volunteers",
             "targetRectangle" : {
               "y" : 753,
@@ -399,15 +408,6 @@ local_slide( {
               "x" : -9.8275365829463226,
               "width" : 1987.096923828125,
               "height" : 1082.4157420545816
-            }
-          },
-          {
-            "text" : "all-volunteers.jpg",
-            "targetRectangle" : {
-              "y" : 53,
-              "x" : 246.1392822265625,
-              "width" : 1428,
-              "height" : 688
             }
           }
         ],

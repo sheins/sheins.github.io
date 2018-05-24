@@ -2,62 +2,6 @@ local_slide( {
   "name" : "1630FE16-42E5-437D-8126-800E13BEFC1D",
   "json" : {
     "assets" : {
-      "5435B4B491F32615843F82AD52481DA5" : {
-        "type" : "texture",
-        "index" : 1,
-        "assetRequest" : {
-          "type" : "slide",
-          "state" : "contents",
-          "slide" : "none"
-        },
-        "url" : {
-          "native" : "assets\/1630FE16-42E5-437D-8126-800E13BEFC1D.pdf"
-        },
-        "width" : 1990,
-        "height" : 1086
-      },
-      "C25C25FF361FB24FC35F6B120D2F252D" : {
-        "type" : "texture",
-        "index" : 0,
-        "assetRequest" : {
-          "type" : "slide",
-          "state" : "contents",
-          "slide" : "none"
-        },
-        "url" : {
-          "native" : "assets\/1630FE16-42E5-437D-8126-800E13BEFC1D.pdf"
-        },
-        "width" : 1920,
-        "height" : 1080
-      },
-      "253964D1A29027030381317D3ACEFA20" : {
-        "type" : "texture",
-        "index" : 4,
-        "assetRequest" : {
-          "type" : "slide",
-          "state" : "contents",
-          "slide" : "none"
-        },
-        "url" : {
-          "native" : "assets\/1630FE16-42E5-437D-8126-800E13BEFC1D.pdf"
-        },
-        "width" : 1039,
-        "height" : 110
-      },
-      "57498E0E144689FEAE7D86FB4C7B8568" : {
-        "type" : "texture",
-        "index" : 5,
-        "assetRequest" : {
-          "type" : "slide",
-          "state" : "contents",
-          "slide" : "none"
-        },
-        "url" : {
-          "native" : "assets\/1630FE16-42E5-437D-8126-800E13BEFC1D.pdf"
-        },
-        "width" : 694,
-        "height" : 66
-      },
       "83B822943812FC30E8E7FE66BE07BA5F" : {
         "type" : "texture",
         "index" : 7,
@@ -86,20 +30,6 @@ local_slide( {
         "width" : 2138,
         "height" : 1082
       },
-      "69B70C8E60EF6863F67FDA9F912287E0" : {
-        "type" : "texture",
-        "index" : 6,
-        "assetRequest" : {
-          "type" : "slide",
-          "state" : "contents",
-          "slide" : "none"
-        },
-        "url" : {
-          "native" : "assets\/1630FE16-42E5-437D-8126-800E13BEFC1D.pdf"
-        },
-        "width" : 120,
-        "height" : 120
-      },
       "E4038B1CAFC1C248AAF1FFFAB9D69866" : {
         "type" : "texture",
         "index" : 3,
@@ -114,9 +44,65 @@ local_slide( {
         "width" : 655,
         "height" : 95
       },
-      "5BA6DF7ACEF516F7DAB78587CF30CE20" : {
+      "253964D1A29027030381317D3ACEFA20" : {
+        "type" : "texture",
+        "index" : 4,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/1630FE16-42E5-437D-8126-800E13BEFC1D.pdf"
+        },
+        "width" : 1039,
+        "height" : 110
+      },
+      "E367AEC64C8EEF1C74AE1B8995ECD96A" : {
+        "type" : "texture",
+        "index" : 9,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/1630FE16-42E5-437D-8126-800E13BEFC1D.pdf"
+        },
+        "width" : 123,
+        "height" : 123
+      },
+      "FFDF234453BF3FFACB4C558D3D4996C2" : {
+        "type" : "texture",
+        "index" : 6,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/1630FE16-42E5-437D-8126-800E13BEFC1D.pdf"
+        },
+        "width" : 120,
+        "height" : 120
+      },
+      "82E97E64C2EDAF21B3013C0872EFB273" : {
         "type" : "texture",
         "index" : 8,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/1630FE16-42E5-437D-8126-800E13BEFC1D.pdf"
+        },
+        "width" : 934,
+        "height" : 110
+      },
+      "C25C25FF361FB24FC35F6B120D2F252D" : {
+        "type" : "texture",
+        "index" : 0,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -128,9 +114,23 @@ local_slide( {
         "width" : 1920,
         "height" : 1080
       },
-      "8297A9BFBB8ACD0C0CD95DFD16162992" : {
+      "57498E0E144689FEAE7D86FB4C7B8568" : {
         "type" : "texture",
-        "index" : 9,
+        "index" : 5,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/1630FE16-42E5-437D-8126-800E13BEFC1D.pdf"
+        },
+        "width" : 694,
+        "height" : 66
+      },
+      "5BA6DF7ACEF516F7DAB78587CF30CE20" : {
+        "type" : "texture",
+        "index" : 10,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -141,6 +141,34 @@ local_slide( {
         },
         "width" : 1920,
         "height" : 1080
+      },
+      "7A348E2A335A5E04458AF99069289CB9" : {
+        "type" : "texture",
+        "index" : 11,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/1630FE16-42E5-437D-8126-800E13BEFC1D.pdf"
+        },
+        "width" : 1920,
+        "height" : 1080
+      },
+      "5435B4B491F32615843F82AD52481DA5" : {
+        "type" : "texture",
+        "index" : 1,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/1630FE16-42E5-437D-8126-800E13BEFC1D.pdf"
+        },
+        "width" : 1990,
+        "height" : 1086
       }
     },
     "events" : [
@@ -405,7 +433,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "8297A9BFBB8ACD0C0CD95DFD16162992"
+                      "texture" : "7A348E2A335A5E04458AF99069289CB9"
                     }
                   ]
                 }
@@ -423,9 +451,27 @@ local_slide( {
         "automaticPlay" : false,
         "hyperlinks" : [
           {
+            "url" : "http:\/\/www.apple.com",
+            "targetRectangle" : {
+              "y" : 780.91839599609375,
+              "x" : 563.94535446166992,
+              "width" : 940.60001373291016,
+              "height" : 116.99999570846558
+            }
+          },
+          {
+            "url" : "http:\/\/sheins.github.io\/django",
+            "targetRectangle" : {
+              "y" : 784.91839599609375,
+              "x" : 568.44535446166992,
+              "width" : 931.59999999999991,
+              "height" : 109
+            }
+          },
+          {
             "url" : "http:\/\/linkedin.com\/in\/sara-heins",
             "targetRectangle" : {
-              "y" : 534.97283935546875,
+              "y" : 414.97283935546875,
               "x" : 555.55998420715332,
               "width" : 1036.8799999999999,
               "height" : 109
@@ -433,6 +479,42 @@ local_slide( {
           }
         ],
         "accessibility" : [
+          {
+            "text" : "room-view.jpg",
+            "targetRectangle" : {
+              "y" : -1.2079086303710938,
+              "x" : -9.8275365829463226,
+              "width" : 1987.096923828125,
+              "height" : 1082.4157420545816
+            }
+          },
+          {
+            "text" : "sheins.github.io\/django",
+            "targetRectangle" : {
+              "y" : 784.91839599609375,
+              "x" : 568.44535446166992,
+              "width" : 931.59999999999991,
+              "height" : 109
+            }
+          },
+          {
+            "text" : "Twitter_Social_Icon_Circle_Color.png",
+            "targetRectangle" : {
+              "y" : 595.94561767578125,
+              "x" : 404.86895751953125,
+              "width" : 116.99999237060547,
+              "height" : 116.99999237060547
+            }
+          },
+          {
+            "text" : "linkedin.com\/in\/sara-heins",
+            "targetRectangle" : {
+              "y" : 414.97283935546875,
+              "x" : 555.55998420715332,
+              "width" : 1036.8799999999999,
+              "height" : 109
+            }
+          },
           {
             "text" : "Questions?",
             "targetRectangle" : {
@@ -445,46 +527,28 @@ local_slide( {
           {
             "text" : "@saraheinstweets",
             "targetRectangle" : {
-              "y" : 719.94561767578125,
+              "y" : 599.94561767578125,
               "x" : 555.59999370574951,
               "width" : 692.79999999999995,
               "height" : 109
             }
           },
           {
-            "text" : "room-view.jpg",
-            "targetRectangle" : {
-              "y" : -1.2079086303710938,
-              "x" : -9.8275365829463226,
-              "width" : 1987.096923828125,
-              "height" : 1082.4157420545816
-            }
-          },
-          {
-            "text" : "linkedin.com\/in\/sara-heins",
-            "targetRectangle" : {
-              "y" : 534.97283935546875,
-              "x" : 555.55998420715332,
-              "width" : 1036.8799999999999,
-              "height" : 109
-            }
-          },
-          {
-            "text" : "Twitter_Social_Icon_Circle_Color.png",
-            "targetRectangle" : {
-              "y" : 715.94561767578125,
-              "x" : 404.86895751953125,
-              "width" : 116.99999237060547,
-              "height" : 116.99999237060547
-            }
-          },
-          {
             "text" : "In-2C-94px-TM.png",
             "targetRectangle" : {
-              "y" : 530.97283935546875,
+              "y" : 410.97283935546875,
               "x" : 397.40087890625,
               "width" : 131.93618774414062,
               "height" : 116.99999237060547
+            }
+          },
+          {
+            "text" : "GitHub-Mark-120px-plus.png",
+            "targetRectangle" : {
+              "y" : 779.41839599609375,
+              "x" : 403.36895751953125,
+              "width" : 120,
+              "height" : 120
             }
           }
         ],
@@ -1405,7 +1469,7 @@ local_slide( {
                     "scale" : 1,
                     "position" : {
                       "pointX" : 1070.5599842071533,
-                      "pointY" : 585.97283935546875
+                      "pointY" : 465.97283935546875
                     },
                     "width" : 1039,
                     "sublayerTransform" : [
@@ -1592,7 +1656,7 @@ local_slide( {
                     "scale" : 1,
                     "position" : {
                       "pointX" : 898.09999370574951,
-                      "pointY" : 748.94561767578125
+                      "pointY" : 628.94561767578125
                     },
                     "width" : 694,
                     "sublayerTransform" : [
@@ -1779,7 +1843,7 @@ local_slide( {
                     "scale" : 1,
                     "position" : {
                       "pointX" : 464.86895751953125,
-                      "pointY" : 775.94561767578125
+                      "pointY" : 655.94561767578125
                     },
                     "width" : 120,
                     "sublayerTransform" : [
@@ -1881,7 +1945,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "69B70C8E60EF6863F67FDA9F912287E0"
+                      "texture" : "FFDF234453BF3FFACB4C558D3D4996C2"
                     }
                   ]
                 }
@@ -1960,7 +2024,7 @@ local_slide( {
                     "scale" : 1,
                     "position" : {
                       "pointX" : 464.90087890625,
-                      "pointY" : 590.97283935546875
+                      "pointY" : 470.97283935546875
                     },
                     "width" : 135,
                     "sublayerTransform" : [
@@ -2063,6 +2127,374 @@ local_slide( {
                         }
                       },
                       "texture" : "83B822943812FC30E8E7FE66BE07BA5F"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "animations" : [
+
+              ],
+              "initialState" : {
+                "affineTransform" : [
+                  1,
+                  0,
+                  0,
+                  1,
+                  0,
+                  0
+                ],
+                "masksToBounds" : false,
+                "rotation" : 0,
+                "scale" : 1,
+                "position" : {
+                  "pointX" : 960,
+                  "pointY" : 540
+                },
+                "width" : 1920,
+                "sublayerTransform" : [
+                  1,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1
+                ],
+                "contentsRect" : {
+                  "y" : 0,
+                  "x" : 0,
+                  "width" : 1,
+                  "height" : 1
+                },
+                "opacity" : 1,
+                "edgeAntialiasingMask" : 251658240,
+                "height" : 1080,
+                "hidden" : false,
+                "anchorPoint" : {
+                  "pointX" : 0.5,
+                  "pointY" : 0.5
+                }
+              },
+              "layers" : [
+                {
+                  "animations" : [
+
+                  ],
+                  "initialState" : {
+                    "affineTransform" : [
+                      1,
+                      0,
+                      0,
+                      1,
+                      0,
+                      0
+                    ],
+                    "masksToBounds" : false,
+                    "rotation" : 0,
+                    "scale" : 1,
+                    "position" : {
+                      "pointX" : 1030.9453544616699,
+                      "pointY" : 835.91839599609375
+                    },
+                    "width" : 934,
+                    "sublayerTransform" : [
+                      1,
+                      0,
+                      0,
+                      0,
+                      0,
+                      1,
+                      0,
+                      0,
+                      0,
+                      0,
+                      1,
+                      0,
+                      0,
+                      0,
+                      0,
+                      1
+                    ],
+                    "contentsRect" : {
+                      "y" : 0,
+                      "x" : 0,
+                      "width" : 1,
+                      "height" : 1
+                    },
+                    "opacity" : 1,
+                    "edgeAntialiasingMask" : 251658240,
+                    "height" : 110,
+                    "hidden" : false,
+                    "anchorPoint" : {
+                      "pointX" : 0.5,
+                      "pointY" : 0.5
+                    }
+                  },
+                  "layers" : [
+                    {
+                      "animations" : [
+
+                      ],
+                      "layers" : [
+
+                      ],
+                      "texturedRectangle" : {
+                        "singleTextureOpacity" : 1,
+                        "textXHeight" : 0.36218181818181822,
+                        "textBaseline" : 0.73307828036221589,
+                        "isBackgroundTexture" : true,
+                        "isVerticalText" : false,
+                        "textColor" : [
+                          0.12984204292297363,
+                          0.12984612584114075,
+                          0.12984395027160645,
+                          1
+                        ],
+                        "textureType" : 6
+                      },
+                      "initialState" : {
+                        "affineTransform" : [
+                          1,
+                          0,
+                          0,
+                          1,
+                          0,
+                          0
+                        ],
+                        "masksToBounds" : false,
+                        "rotation" : 0,
+                        "scale" : 1,
+                        "position" : {
+                          "pointX" : 470.05464553833008,
+                          "pointY" : 58.08160400390625
+                        },
+                        "width" : 934,
+                        "sublayerTransform" : [
+                          1,
+                          0,
+                          0,
+                          0,
+                          0,
+                          1,
+                          0,
+                          0,
+                          0,
+                          0,
+                          1,
+                          0,
+                          0,
+                          0,
+                          0,
+                          1
+                        ],
+                        "contentsRect" : {
+                          "y" : 0,
+                          "x" : 0,
+                          "width" : 1,
+                          "height" : 1
+                        },
+                        "opacity" : 1,
+                        "edgeAntialiasingMask" : 0,
+                        "height" : 110,
+                        "hidden" : false,
+                        "anchorPoint" : {
+                          "pointX" : 0.5,
+                          "pointY" : 0.5
+                        }
+                      },
+                      "texture" : "82E97E64C2EDAF21B3013C0872EFB273"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "animations" : [
+
+              ],
+              "initialState" : {
+                "affineTransform" : [
+                  1,
+                  0,
+                  0,
+                  1,
+                  0,
+                  0
+                ],
+                "masksToBounds" : false,
+                "rotation" : 0,
+                "scale" : 1,
+                "position" : {
+                  "pointX" : 960,
+                  "pointY" : 540
+                },
+                "width" : 1920,
+                "sublayerTransform" : [
+                  1,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1
+                ],
+                "contentsRect" : {
+                  "y" : 0,
+                  "x" : 0,
+                  "width" : 1,
+                  "height" : 1
+                },
+                "opacity" : 1,
+                "edgeAntialiasingMask" : 251658240,
+                "height" : 1080,
+                "hidden" : false,
+                "anchorPoint" : {
+                  "pointX" : 0.5,
+                  "pointY" : 0.5
+                }
+              },
+              "layers" : [
+                {
+                  "animations" : [
+
+                  ],
+                  "initialState" : {
+                    "affineTransform" : [
+                      1,
+                      0,
+                      0,
+                      1,
+                      0,
+                      0
+                    ],
+                    "masksToBounds" : false,
+                    "rotation" : 0,
+                    "scale" : 1,
+                    "position" : {
+                      "pointX" : 464.86895751953125,
+                      "pointY" : 840.91839599609375
+                    },
+                    "width" : 123,
+                    "sublayerTransform" : [
+                      1,
+                      0,
+                      0,
+                      0,
+                      0,
+                      1,
+                      0,
+                      0,
+                      0,
+                      0,
+                      1,
+                      0,
+                      0,
+                      0,
+                      0,
+                      1
+                    ],
+                    "contentsRect" : {
+                      "y" : 0,
+                      "x" : 0,
+                      "width" : 1,
+                      "height" : 1
+                    },
+                    "opacity" : 1,
+                    "edgeAntialiasingMask" : 251658240,
+                    "height" : 123,
+                    "hidden" : false,
+                    "anchorPoint" : {
+                      "pointX" : 0.5,
+                      "pointY" : 0.5
+                    }
+                  },
+                  "layers" : [
+                    {
+                      "animations" : [
+
+                      ],
+                      "layers" : [
+
+                      ],
+                      "texturedRectangle" : {
+                        "isBackgroundTexture" : true,
+                        "singleTextureOpacity" : 1,
+                        "textureType" : 5,
+                        "textBaseline" : 0,
+                        "textXHeight" : 0,
+                        "isVerticalText" : false
+                      },
+                      "initialState" : {
+                        "affineTransform" : [
+                          1,
+                          0,
+                          0,
+                          1,
+                          0,
+                          0
+                        ],
+                        "masksToBounds" : false,
+                        "rotation" : 0,
+                        "scale" : 1,
+                        "position" : {
+                          "pointX" : 60.13104248046875,
+                          "pointY" : 60.08160400390625
+                        },
+                        "width" : 123,
+                        "sublayerTransform" : [
+                          1,
+                          0,
+                          0,
+                          0,
+                          0,
+                          1,
+                          0,
+                          0,
+                          0,
+                          0,
+                          1,
+                          0,
+                          0,
+                          0,
+                          0,
+                          1
+                        ],
+                        "contentsRect" : {
+                          "y" : 0,
+                          "x" : 0,
+                          "width" : 1,
+                          "height" : 1
+                        },
+                        "opacity" : 1,
+                        "edgeAntialiasingMask" : 0,
+                        "height" : 123,
+                        "hidden" : false,
+                        "anchorPoint" : {
+                          "pointX" : 0.5,
+                          "pointY" : 0.5
+                        }
+                      },
+                      "texture" : "E367AEC64C8EEF1C74AE1B8995ECD96A"
                     }
                   ]
                 }

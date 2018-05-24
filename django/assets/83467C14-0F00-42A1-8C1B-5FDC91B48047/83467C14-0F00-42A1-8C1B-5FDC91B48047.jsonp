@@ -384,15 +384,6 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "room-view.jpg",
-            "targetRectangle" : {
-              "y" : -1.2079086303710938,
-              "x" : -9.8275365829463226,
-              "width" : 1987.096923828125,
-              "height" : 1082.4157420545816
-            }
-          },
-          {
             "text" : "DjangoGirls_2017-1834.jpg",
             "targetRectangle" : {
               "y" : 53,
@@ -408,6 +399,15 @@ local_slide( {
               "x" : 395.77871999999991,
               "width" : 1128.4425600000004,
               "height" : 150
+            }
+          },
+          {
+            "text" : "room-view.jpg",
+            "targetRectangle" : {
+              "y" : -1.2079086303710938,
+              "x" : -9.8275365829463226,
+              "width" : 1987.096923828125,
+              "height" : 1082.4157420545816
             }
           }
         ],

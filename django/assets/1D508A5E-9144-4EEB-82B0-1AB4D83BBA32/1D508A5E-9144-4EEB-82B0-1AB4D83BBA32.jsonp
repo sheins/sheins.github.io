@@ -398,6 +398,15 @@ local_slide( {
         ],
         "accessibility" : [
           {
+            "text" : "Why we need more women in tech",
+            "targetRectangle" : {
+              "y" : 79.5,
+              "x" : 1039.2531200000001,
+              "width" : 771.72875999999997,
+              "height" : 429
+            }
+          },
+          {
             "text" : "Part I",
             "targetRectangle" : {
               "y" : 518.5,
@@ -413,15 +422,6 @@ local_slide( {
               "x" : -2.7794189453125,
               "width" : 899.75,
               "height" : 1083.2952972650528
-            }
-          },
-          {
-            "text" : "Why we need more women in tech",
-            "targetRectangle" : {
-              "y" : 79.5,
-              "x" : 1039.2531200000001,
-              "width" : 771.72875999999997,
-              "height" : 429
             }
           },
           {

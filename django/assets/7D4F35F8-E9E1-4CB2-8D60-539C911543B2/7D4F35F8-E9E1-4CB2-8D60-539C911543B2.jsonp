@@ -2,9 +2,23 @@ local_slide( {
   "name" : "7D4F35F8-E9E1-4CB2-8D60-539C911543B2",
   "json" : {
     "assets" : {
-      "9598CAB5D7D57EEB738ED1993B89BD17" : {
+      "BD1F44DB5D3FDF4E3F0D2D0EB0789F55" : {
         "type" : "texture",
-        "index" : 6,
+        "index" : 3,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/7D4F35F8-E9E1-4CB2-8D60-539C911543B2.pdf"
+        },
+        "width" : 1632,
+        "height" : 112
+      },
+      "F2314CAF2FE0F371DFBCFF9FA782F100" : {
+        "type" : "texture",
+        "index" : 0,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -44,7 +58,7 @@ local_slide( {
         "width" : 1990,
         "height" : 1086
       },
-      "604F9974853A954AD10C6E8D3CAD359A" : {
+      "32C984DDD152C1D4DC4CDA7B28E629A0" : {
         "type" : "texture",
         "index" : 4,
         "assetRequest" : {
@@ -57,20 +71,6 @@ local_slide( {
         },
         "width" : 1642,
         "height" : 519
-      },
-      "C25C25FF361FB24FC35F6B120D2F252D" : {
-        "type" : "texture",
-        "index" : 0,
-        "assetRequest" : {
-          "type" : "slide",
-          "state" : "contents",
-          "slide" : "none"
-        },
-        "url" : {
-          "native" : "assets\/7D4F35F8-E9E1-4CB2-8D60-539C911543B2.pdf"
-        },
-        "width" : 1920,
-        "height" : 1080
       },
       "AB5E23E421901530B01C3018C4256B74" : {
         "type" : "texture",
@@ -86,9 +86,9 @@ local_slide( {
         "width" : 2138,
         "height" : 1082
       },
-      "BD1F44DB5D3FDF4E3F0D2D0EB0789F55" : {
+      "B61A631F5A6D1261DE0F3C54548DFAAE" : {
         "type" : "texture",
-        "index" : 3,
+        "index" : 6,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -97,8 +97,8 @@ local_slide( {
         "url" : {
           "native" : "assets\/7D4F35F8-E9E1-4CB2-8D60-539C911543B2.pdf"
         },
-        "width" : 1632,
-        "height" : 112
+        "width" : 1920,
+        "height" : 1080
       }
     },
     "events" : [
@@ -363,7 +363,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "9598CAB5D7D57EEB738ED1993B89BD17"
+                      "texture" : "B61A631F5A6D1261DE0F3C54548DFAAE"
                     }
                   ]
                 }
@@ -393,21 +393,21 @@ local_slide( {
             }
           },
           {
-            "text" : "Include statistics, and bold items to make them stand out",
+            "text" : "Ask directly and at the beginning of the email",
             "targetRectangle" : {
               "y" : 265.64468383789062,
               "x" : 208.87499725818634,
-              "width" : 1585.5510000000002,
-              "height" : 188
+              "width" : 1525.7970000000003,
+              "height" : 94
             }
           },
           {
-            "text" : "Ask directly and at the beginning of the email",
+            "text" : "Include statistics, and bold items to make them stand out",
             "targetRectangle" : {
-              "y" : 453.64468383789062,
+              "y" : 359.64468383789062,
               "x" : 208.87499725818634,
-              "width" : 1525.7970000000003,
-              "height" : 153
+              "width" : 1585.5510000000002,
+              "height" : 247
             }
           },
           {
@@ -660,7 +660,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "C25C25FF361FB24FC35F6B120D2F252D"
+                      "texture" : "F2314CAF2FE0F371DFBCFF9FA782F100"
                     }
                   ]
                 }
@@ -1454,7 +1454,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "604F9974853A954AD10C6E8D3CAD359A"
+                      "texture" : "32C984DDD152C1D4DC4CDA7B28E629A0"
                     }
                   ]
                 }

@@ -1,6 +1,20 @@
 {
   "assets" : {
-    "CBA62750219921998B442DA1F5139A10" : {
+    "5435B4B491F32615843F82AD52481DA5" : {
+      "type" : "texture",
+      "index" : 1,
+      "assetRequest" : {
+        "type" : "slide",
+        "state" : "contents",
+        "slide" : "none"
+      },
+      "url" : {
+        "native" : "assets\/EB617362-8C01-4CD8-8FD3-96B8B0B6A71A.pdf"
+      },
+      "width" : 1990,
+      "height" : 1086
+    },
+    "BA6B6958CE367590A99F2D250D6B4C56" : {
       "type" : "texture",
       "index" : 5,
       "assetRequest" : {
@@ -83,20 +97,6 @@
       },
       "width" : 2138,
       "height" : 1082
-    },
-    "C668E611EFC1B432EA053D1CC642727D" : {
-      "type" : "texture",
-      "index" : 1,
-      "assetRequest" : {
-        "type" : "slide",
-        "state" : "contents",
-        "slide" : "none"
-      },
-      "url" : {
-        "native" : "assets\/EB617362-8C01-4CD8-8FD3-96B8B0B6A71A.pdf"
-      },
-      "width" : 1990,
-      "height" : 1086
     }
   },
   "events" : [
@@ -280,7 +280,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "CBA62750219921998B442DA1F5139A10"
+                    "texture" : "BA6B6958CE367590A99F2D250D6B4C56"
                   },
                   {
                     "animations" : [
@@ -391,21 +391,21 @@
           }
         },
         {
-          "text" : "room-view.jpg",
-          "targetRectangle" : {
-            "y" : -1.2079086303710938,
-            "x" : -9.8275365829463226,
-            "width" : 1987.096923828125,
-            "height" : 1082.4157420545816
-          }
-        },
-        {
           "text" : "sponsorship-prospectis.png",
           "targetRectangle" : {
             "y" : 426.90249633789062,
             "x" : 271.87750244140625,
             "width" : 1376.2449951171875,
             "height" : 811.41552734375
+          }
+        },
+        {
+          "text" : "room-view.jpg",
+          "targetRectangle" : {
+            "y" : -1.2079086303710938,
+            "x" : -9.8275365829463226,
+            "width" : 1987.096923828125,
+            "height" : 1082.4157420545816
           }
         }
       ],
@@ -821,7 +821,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "C668E611EFC1B432EA053D1CC642727D"
+                    "texture" : "5435B4B491F32615843F82AD52481DA5"
                   }
                 ]
               }

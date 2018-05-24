@@ -84,9 +84,9 @@
       "width" : 1920,
       "height" : 1080
     },
-    "C668E611EFC1B432EA053D1CC642727D" : {
+    "AB5E23E421901530B01C3018C4256B74" : {
       "type" : "texture",
-      "index" : 1,
+      "index" : 2,
       "assetRequest" : {
         "type" : "slide",
         "state" : "contents",
@@ -95,8 +95,8 @@
       "url" : {
         "native" : "assets\/E0583B66-AA55-40DA-BFFA-41C897133EBF.pdf"
       },
-      "width" : 1990,
-      "height" : 1086
+      "width" : 2138,
+      "height" : 1082
     },
     "0B2C2868436DD6F322254F2134CE4B2F" : {
       "type" : "texture",
@@ -196,20 +196,6 @@
       "width" : 1920,
       "height" : 1080
     },
-    "6A5F7372522B1F2E8D770F52555E6684" : {
-      "type" : "texture",
-      "index" : 2,
-      "assetRequest" : {
-        "type" : "slide",
-        "state" : "contents",
-        "slide" : "none"
-      },
-      "url" : {
-        "native" : "assets\/E0583B66-AA55-40DA-BFFA-41C897133EBF.pdf"
-      },
-      "width" : 2138,
-      "height" : 1082
-    },
     "122759B49F797CCC9C41A952EAD356AD" : {
       "type" : "texture",
       "index" : 13,
@@ -251,6 +237,20 @@
       },
       "width" : 373,
       "height" : 73
+    },
+    "5435B4B491F32615843F82AD52481DA5" : {
+      "type" : "texture",
+      "index" : 1,
+      "assetRequest" : {
+        "type" : "slide",
+        "state" : "contents",
+        "slide" : "none"
+      },
+      "url" : {
+        "native" : "assets\/E0583B66-AA55-40DA-BFFA-41C897133EBF.pdf"
+      },
+      "width" : 1990,
+      "height" : 1086
     },
     "5DC90857CDF3F1FB05EE2D7C63821189" : {
       "type" : "texture",
@@ -550,20 +550,11 @@
       ],
       "accessibility" : [
         {
-          "text" : "1. Planning",
-          "targetRectangle" : {
-            "y" : 489.3021240234375,
-            "x" : 175.05039978027344,
-            "width" : 377.56799999999998,
-            "height" : 94
-          }
-        },
-        {
-          "text" : "6. After Event",
+          "text" : "5. Day of",
           "targetRectangle" : {
             "y" : 881.22564697265625,
-            "x" : 1320.8665771484375,
-            "width" : 453.8130000000001,
+            "x" : 804.21380615234375,
+            "width" : 298.01099999999997,
             "height" : 94
           }
         },
@@ -577,11 +568,11 @@
           }
         },
         {
-          "text" : "5. Day of",
+          "text" : "3. Accept\/Reject ",
           "targetRectangle" : {
-            "y" : 881.22564697265625,
-            "x" : 804.21380615234375,
-            "width" : 298.01099999999997,
+            "y" : 489.3021240234375,
+            "x" : 1282.955810546875,
+            "width" : 565.11000000000013,
             "height" : 94
           }
         },
@@ -592,15 +583,6 @@
             "x" : -9.8275365829463226,
             "width" : 1987.096923828125,
             "height" : 1082.4157420545816
-          }
-        },
-        {
-          "text" : "3. Accept\/Reject ",
-          "targetRectangle" : {
-            "y" : 489.3021240234375,
-            "x" : 1282.955810546875,
-            "width" : 565.11000000000013,
-            "height" : 94
           }
         },
         {
@@ -618,6 +600,24 @@
             "y" : 489.3021240234375,
             "x" : 669.1607666015625,
             "width" : 490.03800000000001,
+            "height" : 94
+          }
+        },
+        {
+          "text" : "6. After Event",
+          "targetRectangle" : {
+            "y" : 881.22564697265625,
+            "x" : 1320.8665771484375,
+            "width" : 453.8130000000001,
+            "height" : 94
+          }
+        },
+        {
+          "text" : "1. Planning",
+          "targetRectangle" : {
+            "y" : 489.3021240234375,
+            "x" : 175.05039978027344,
+            "width" : 377.56799999999998,
             "height" : 94
           }
         }
@@ -1034,7 +1034,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "C668E611EFC1B432EA053D1CC642727D"
+                    "texture" : "5435B4B491F32615843F82AD52481DA5"
                   }
                 ]
               }
@@ -1273,7 +1273,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "6A5F7372522B1F2E8D770F52555E6684"
+                    "texture" : "AB5E23E421901530B01C3018C4256B74"
                   }
                 ]
               }

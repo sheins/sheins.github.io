@@ -2,21 +2,7 @@ local_slide( {
   "name" : "B911D6FA-8D85-4F47-871A-8FB56BDC2BAE",
   "json" : {
     "assets" : {
-      "5435B4B491F32615843F82AD52481DA5" : {
-        "type" : "texture",
-        "index" : 1,
-        "assetRequest" : {
-          "type" : "slide",
-          "state" : "contents",
-          "slide" : "none"
-        },
-        "url" : {
-          "native" : "assets\/B911D6FA-8D85-4F47-871A-8FB56BDC2BAE.pdf"
-        },
-        "width" : 1990,
-        "height" : 1086
-      },
-      "C25C25FF361FB24FC35F6B120D2F252D" : {
+      "4DA352A8321D3927A50B8C40CC17EB1B" : {
         "type" : "texture",
         "index" : 0,
         "assetRequest" : {
@@ -29,6 +15,20 @@ local_slide( {
         },
         "width" : 1920,
         "height" : 1080
+      },
+      "7347154895792F9C7B8B3F89DCF84EA5" : {
+        "type" : "texture",
+        "index" : 3,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/B911D6FA-8D85-4F47-871A-8FB56BDC2BAE.pdf"
+        },
+        "width" : 1560,
+        "height" : 272
       },
       "0D3D7890797566EF3311F4B182EB279C" : {
         "type" : "texture",
@@ -58,9 +58,9 @@ local_slide( {
         "width" : 2138,
         "height" : 1082
       },
-      "7347154895792F9C7B8B3F89DCF84EA5" : {
+      "5435B4B491F32615843F82AD52481DA5" : {
         "type" : "texture",
-        "index" : 3,
+        "index" : 1,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -69,8 +69,8 @@ local_slide( {
         "url" : {
           "native" : "assets\/B911D6FA-8D85-4F47-871A-8FB56BDC2BAE.pdf"
         },
-        "width" : 1560,
-        "height" : 272
+        "width" : 1990,
+        "height" : 1086
       },
       "ECE4F7144869331C070E3D4949C1343F" : {
         "type" : "texture",
@@ -370,21 +370,21 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "room-view.jpg",
-            "targetRectangle" : {
-              "y" : -1.2079086303710938,
-              "x" : -9.8275365829463226,
-              "width" : 1987.096923828125,
-              "height" : 1082.4157420545816
-            }
-          },
-          {
             "text" : "Aim for a mix of junior and senior programmers",
             "targetRectangle" : {
               "y" : 387,
               "x" : 182.10400000000004,
               "width" : 1583.7919999999999,
               "height" : 306
+            }
+          },
+          {
+            "text" : "room-view.jpg",
+            "targetRectangle" : {
+              "y" : -1.2079086303710938,
+              "x" : -9.8275365829463226,
+              "width" : 1987.096923828125,
+              "height" : 1082.4157420545816
             }
           }
         ],
@@ -619,7 +619,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "C25C25FF361FB24FC35F6B120D2F252D"
+                      "texture" : "4DA352A8321D3927A50B8C40CC17EB1B"
                     }
                   ]
                 }
